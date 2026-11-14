@@ -24,6 +24,8 @@ if (createHash('sha256').update(bytes).digest('hex') !== model.sha256) throw new
 for (const monster of monsters) await stat(path.join(dist, 'portraits', `${monster.id}.jpg`));
 const html = await readFile(path.join(dist, 'index.html'), 'utf8');
 if (/\b(?:src|href)=["']\/(?!\/)/.test(html)) throw new Error('Root-absolute asset path is incompatible with project Pages.');
+const appVersion = createHash('sha256').update(await readFile(path.join(dist, 'app.js'))).digest('hex').slice(0, 12);
+await writeFile(path.join(dist, 'index.html'), html.replace('src="./app.js"', `src="./app.js?v=${appVersion}"`));
 let total = 0;
 async function inspect(directory) {
   for (const entry of await readdir(directory, { withFileTypes: true })) {
