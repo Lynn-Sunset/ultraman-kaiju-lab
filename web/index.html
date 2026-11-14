@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#d92f3d">
+  <meta name="description" content="上传照片，匹配你的奥特怪兽身份。30类怪兽，照片只在你的浏览器中处理。">
+  <title>怪兽研究所 · 你的奥特怪兽身份</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <header class="header">
+    <a class="brand" href="#" aria-label="怪兽研究所首页"><span class="brand-mark">✳</span><span>怪兽研究所<small>KAIJU LAB</small></span></a>
+    <nav aria-label="主导航">
+      <a href="#experiment">开始匹配</a>
+      <a href="#archive">怪兽图鉴</a>
+      <button id="about-button">关于</button>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <span class="eyebrow"><b id="archive-count">30</b> 位怪兽，等你相认</span>
+        <h1 id="hero-title">你是哪一只<br><span>奥特怪兽？</span></h1>
+        <p>选张照片，揭晓你的怪兽身份和专属能力。</p>
+        <a class="primary hero-cta" href="#experiment">开始匹配 <span>↗</span></a>
+      </div>
+      <div class="hero-art">
+        <div class="hero-orbit" aria-hidden="true"></div>
+        <span class="hero-spark" aria-hidden="true">✳</span>
+        <img src="./portraits/gomora.jpg" alt="古代怪兽哥莫拉" width="360" height="360">
+        <span class="hero-caption">哥莫拉 <small>古代怪兽</small></span>
+      </div>
+    </section>
+
+    <section class="experiment section" id="experiment" aria-labelledby="experiment-title">
+      <div class="section-heading"><h2 id="experiment-title">开始匹配<span>.</span></h2><span id="model-state" role="status">正在准备模型…</span><button id="retry-model" class="text-button" hidden>重新加载</button></div>
+      <div class="lab-grid">
+        <div class="upload-panel panel">
+          <div class="panel-heading">你的照片</div>
+          <input type="file" id="photo-input" accept="image/jpeg,image/png,image/webp" hidden>
+          <button class="dropzone" id="dropzone" type="button" aria-label="上传照片">
+            <img id="photo-preview" alt="已选择的照片预览" hidden>
+            <span id="dropzone-empty">
+              <svg viewBox="0 0 48 48" fill="none" aria-hidden="true"><path d="M15 6H6v9m27-9h9v9M6 33v9h9m18 0h9v-9M24 31V17m-6 6 6-6 6 6M16 35h16" stroke="currentColor" stroke-width="1.5"/></svg>
+              <strong>点击或拖入照片</strong>
+              <small>JPG / PNG / WebP · 最大 10 MB</small>
+            </span>
+            <span class="photo-change" hidden>点击更换</span>
+          </button>
+          <div id="file-info" class="file-info"><span>建议使用主体清晰的单人照片</span></div>
+          <button id="classify-button" class="primary analyze-button" disabled><span>准备模型中…</span><span>↗</span></button>
+          <p class="privacy">照片只在你的浏览器中处理</p>
+          <button class="text-button demo-button" id="demo-button">查看结果示例 ↗</button>
+          <p id="upload-error" class="error" role="alert" hidden></p>
+        </div>
+
+        <div class="result-panel panel" id="result-panel" aria-live="polite">
+          <div class="panel-heading">你的怪兽身份 <span id="result-status">待揭晓</span></div>
+          <div id="result-content" class="result-content">
+            <div class="empty-result"><span class="empty-symbol" aria-hidden="true">✳</span><h3>等你上传照片</h3><p>你的怪兽能力档案会出现在这里。</p></div>
+          </div>
+        </div>
+      </div>
+      <p class="experiment-note">仅供娱乐，匹配结果不代表真实身份、性格或能力。</p>
+    </section>
+
+    <section class="archive section" id="archive" aria-labelledby="archive-title">
+      <div class="section-heading"><h2 id="archive-title">怪兽图鉴<span>.</span></h2><span id="archive-results" aria-live="polite"></span></div>
+      <div class="archive-toolbar">
+        <label class="archive-search-label"><span aria-hidden="true">⌕</span><input id="archive-search" type="search" placeholder="搜索怪兽名称" aria-label="搜索怪兽"></label>
+        <select id="archive-era" aria-label="按系列筛选"><option value="">全部系列</option><option value="昭和">昭和系列</option><option value="平成">平成系列</option><option value="新生代">新生代系列</option></select>
+      </div>
+      <div class="archive-grid" id="archive-grid"><p class="muted">正在读取图鉴…</p></div>
+    </section>
+  </main>
+
+  <footer><span>✳ 怪兽研究所</span><p>非官方同人实验 · 角色及图片版权归原权利人所有</p><a href="https://tsuburaya-prod.com/encyclopedialist" target="_blank" rel="noopener noreferrer">资料来源 ↗</a></footer>
+  <dialog id="info-dialog"><button id="close-dialog" class="close-dialog" aria-label="关闭弹窗">×</button><div id="dialog-content"></div></dialog>
+  <div class="toast" id="toast" role="status" hidden></div>
+</body>
+</html>

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "gomora",
+    "name": "哥莫拉",
+    "en": "GOMORA",
+    "jp": "ゴモラ",
+    "title": "古代怪兽",
+    "color": "#d99b6b",
+    "height": "40 m",
+    "debut": "《奥特曼》",
+    "abilities": [
+      "强力尾击",
+      "地下掘进",
+      "近身搏斗"
+    ],
+    "description": "头顶新月形巨角、拥有粗壮长尾的古代怪兽。强力尾击是它的招牌武器，还能挖掘地面潜入地下，以顽强的生命力和近战力量应战。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/gomora",
+    "era": "昭和"
+  },
+  {
+    "id": "baltan",
+    "name": "巴尔坦星人",
+    "en": "ALIEN BALTAN",
+    "jp": "バルタン星人",
+    "title": "宇宙忍者",
+    "color": "#a6a0e9",
+    "height": "50 m",
+    "debut": "《奥特曼》",
+    "abilities": [
+      "分身术",
+      "瞬间移动",
+      "钳部光线"
+    ],
+    "description": "拥有蝉般面孔和巨大双钳的宇宙忍者。能够分身、飞行与瞬间移动，并从双钳发射冷冻光线和破坏光弹，以难以捉摸的战术扰乱对手。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/baltan",
+    "era": "昭和"
+  },
+  {
+    "id": "zetton",
+    "name": "杰顿",
+    "en": "ZETTON",
+    "jp": "ゼットン",
+    "title": "宇宙恐龙",
+    "color": "#e7b966",
+    "height": "60 m",
+    "debut": "《奥特曼》",
+    "abilities": [
+      "高热火球",
+      "电磁屏障",
+      "光线吸收"
+    ],
+    "description": "以黑色甲胄与发光胸部著称的宇宙恐龙。能够瞬间移动、展开电磁屏障，并吸收光线后反击；凭借这套攻防能力，曾在战斗中击败初代奥特曼。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/zetton",
+    "era": "昭和"
+  },
+  {
+    "id": "eleking",
+    "name": "艾雷王",
+    "en": "ELEKING",
+    "jp": "エレキング",
+    "title": "宇宙怪兽",
+    "color": "#c9d7ad",
+    "height": "53 m",
+    "debut": "《赛文奥特曼》",
+    "abilities": [
+      "高压放电",
+      "长尾缠绕",
+      "雷达双角"
+    ],
+    "description": "身体布满黑白斑纹，头顶旋转的新月形双角能够感知周围环境。擅长用长尾缠住对手并释放高压电流，也能从口部发出放电光线。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/eleking",
+    "era": "昭和"
+  },
+  {
+    "id": "redking",
+    "name": "雷德王",
+    "en": "RED KING",
+    "jp": "レッドキング",
+    "title": "骷髅怪兽",
+    "color": "#df9b79",
+    "height": "45 m",
+    "debut": "《奥特曼》",
+    "abilities": [
+      "怪力搏斗",
+      "巨岩投掷",
+      "强力冲撞"
+    ],
+    "description": "以惊人的身体力量闻名的骷髅怪兽。擅长举起并投掷巨岩，用拳脚、冲撞与强大的力量压制对手，是怪兽世界里直接而强悍的近战选手。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/red-king",
+    "era": "昭和"
+  },
+  {
+    "id": "kanegon",
+    "name": "卡内贡",
+    "en": "KANEGON",
+    "jp": "カネゴン",
+    "title": "硬币怪兽",
+    "color": "#d1b879",
+    "height": "2 m",
+    "debut": "《奥特Q》",
+    "abilities": [
+      "金钱感知",
+      "钱币辨别",
+      "硬币进食"
+    ],
+    "description": "有着零钱包形脑袋和拉链般嘴巴的硬币怪兽。依靠吃钱币维持生命，眼睛对金钱格外敏锐，体内器官还能辨别钱币真伪，是一位独特又充满故事的怪兽。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/kanegon",
+    "era": "昭和"
+  },
+  {
+    "id": "pigmon",
+    "name": "皮古蒙",
+    "en": "PIGMON",
+    "jp": "ピグモン",
+    "title": "友好珍兽",
+    "era": "昭和",
+    "color": "#d69b91",
+    "height": "1 m",
+    "debut": "《奥特曼》",
+    "abilities": [
+      "敏捷跳跃",
+      "引导救援",
+      "吸引注意"
+    ],
+    "description": "生活在多多良岛的友好怪兽。它没有强大的战斗力量，却能用灵活的动作和弹簧般的双腿吸引敌人注意，也曾为遇险的人类带来食物和引导救援。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/pigmon"
+  },
+  {
+    "id": "kingjoe",
+    "name": "金古桥",
+    "en": "KING JOE",
+    "jp": "キングジョー",
+    "title": "宇宙机器人",
+    "era": "昭和",
+    "color": "#c6b682",
+    "height": "55 m",
+    "debut": "《赛文奥特曼》",
+    "abilities": [
+      "四机分离",
+      "坚固装甲",
+      "额部破坏光线"
+    ],
+    "description": "由佩丹星人制造的宇宙机器人，能够分离为四架飞行器高速移动，再重新组合。坚固的金属装甲可抵御多种攻击，并以强力近战和额部破坏光线迎敌。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/king-joe"
+  },
+  {
+    "id": "dada",
+    "name": "达达",
+    "en": "DADA",
+    "jp": "ダダ",
+    "title": "三面怪人",
+    "era": "昭和",
+    "color": "#bbb8cf",
+    "height": "1.9–40 m",
+    "debut": "《奥特曼》",
+    "abilities": [
+      "瞬间移动",
+      "隐身",
+      "缩小光线"
+    ],
+    "description": "拥有三种面孔、身体布满黑白条纹的宇宙人。能够隐身和瞬间移动，还可将目标缩小后收进胶囊；比起正面搏斗，它更擅长用特殊能力扰乱对手。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/dada"
+  },
+  {
+    "id": "neronga",
+    "name": "内隆嘎",
+    "en": "NERONGA",
+    "jp": "ネロンガ",
+    "title": "透明怪兽",
+    "era": "昭和",
+    "color": "#bab68e",
+    "height": "45 m",
+    "debut": "《奥特曼》",
+    "abilities": [
+      "透明隐身",
+      "电力摄食",
+      "放电光束"
+    ],
+    "description": "以电力为食的透明怪兽，平时能隐藏身形，吸收足够电力后便显现身体。头上的触角与角靠拢时可以释放电流光束，常以发电设施作为袭击目标。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/neronga"
+  },
+  {
+    "id": "bemular",
+    "name": "百慕拉",
+    "en": "BEMULAR",
+    "jp": "ベムラー",
+    "title": "宇宙怪兽",
+    "era": "昭和",
+    "color": "#a4bd9f",
+    "height": "50 m",
+    "debut": "《奥特曼》",
+    "abilities": [
+      "蓝色热光线",
+      "光球飞行",
+      "水下潜伏"
+    ],
+    "description": "初代奥特曼在地球上交战的第一只怪兽。它能够化为蓝色光球在空中移动，从口中喷射蓝色热光线，也曾潜伏在龙森湖中躲避追击。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/bemular"
+  },
+  {
+    "id": "gubila",
+    "name": "古维拉",
+    "en": "GUBILA",
+    "jp": "グビラ",
+    "title": "深海怪兽",
+    "era": "昭和",
+    "color": "#c6b794",
+    "height": "50 m",
+    "debut": "《奥特曼》",
+    "abilities": [
+      "钻角突击",
+      "高速游动",
+      "地下穿行"
+    ],
+    "description": "鼻尖长有钻头状角的深海怪兽。除了能在水中高速移动，也能穿过地下并登上陆地；擅长以旋转钻角配合快速冲撞，突破岩层或攻击敌人。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/gubila"
+  },
+  {
+    "id": "antlar",
+    "name": "安东拉",
+    "en": "ANTLAR",
+    "jp": "アントラー",
+    "title": "磁力怪兽",
+    "era": "昭和",
+    "color": "#adae91",
+    "height": "40 m",
+    "debut": "《奥特曼》",
+    "abilities": [
+      "磁力光线",
+      "沙地潜行",
+      "巨大颚钳"
+    ],
+    "description": "栖息在沙漠中的甲虫形怪兽，巨大双颚之间能够发射彩虹色的磁力光线，吸引金属物体。它能藏身沙土，从地下突然出现，利用坚硬身体和磁力发动攻击。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/antlar"
+  },
+  {
+    "id": "jamila",
+    "name": "贾米拉",
+    "en": "JAMILA",
+    "jp": "ジャミラ",
+    "title": "栖星怪兽",
+    "era": "昭和",
+    "color": "#b2a38d",
+    "height": "50 m",
+    "debut": "《奥特曼》",
+    "abilities": [
+      "高温火焰",
+      "耐火身体",
+      "强力近战"
+    ],
+    "description": "由流落异星的宇航员变化而成的怪兽，独特的身形背后有一段悲剧故事。它的身体能够耐受火焰，还可从口中喷出高温火流，但水会对它造成严重伤害。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/jamila"
+  },
+  {
+    "id": "gudon",
+    "name": "古敦",
+    "en": "GUDON",
+    "jp": "グドン",
+    "title": "地底怪兽",
+    "era": "昭和",
+    "color": "#b6aa8e",
+    "height": "50 m",
+    "debut": "《归来的奥特曼》",
+    "abilities": [
+      "双鞭抽击",
+      "地下潜伏",
+      "尖牙撕咬"
+    ],
+    "description": "自侏罗纪时代生存下来的地底怪兽。双臂是能够挥舞的长鞭，配合尖牙发动凶猛的近距离攻击；它常从地下出现，也是双尾怪的天敌。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/gudon"
+  },
+  {
+    "id": "twintail",
+    "name": "双尾怪",
+    "en": "TWINTAIL",
+    "jp": "ツインテール",
+    "title": "古代怪兽",
+    "era": "昭和",
+    "color": "#bbac98",
+    "height": "45 m",
+    "debut": "《归来的奥特曼》",
+    "abilities": [
+      "双尾重击",
+      "尾部缠绕",
+      "身体压制"
+    ],
+    "description": "以倒立般的独特外形和头顶两条长尾著称的古代怪兽。两条尾巴能够连续抽打，也能缠住对手，配合身体挤压进行近战，曾与古敦一同对战杰克奥特曼。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/twin-tail"
+  },
+  {
+    "id": "bemstar",
+    "name": "贝蒙斯坦",
+    "en": "BEMSTAR",
+    "jp": "ベムスター",
+    "title": "宇宙大怪兽",
+    "era": "昭和",
+    "color": "#aaa98a",
+    "height": "46 m",
+    "debut": "《归来的奥特曼》",
+    "abilities": [
+      "腹部吞噬",
+      "能量吸收",
+      "角部光束"
+    ],
+    "description": "来自蟹状星云的宇宙大怪兽，腹部的大口能够吸入气体与能量，甚至吞下大型设施。它曾吸收杰克奥特曼的斯派修姆光线，并能从头顶的角发射光束。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/bemstar"
+  },
+  {
+    "id": "blackking",
+    "name": "布莱克王",
+    "en": "BLACK KING",
+    "jp": "ブラックキング",
+    "title": "保镖怪兽",
+    "era": "昭和",
+    "color": "#a9a288",
+    "height": "65 m",
+    "debut": "《归来的奥特曼》",
+    "abilities": [
+      "高强度防御",
+      "口部热光线",
+      "怪力搏斗"
+    ],
+    "description": "纳克尔星人训练的保镖怪兽，针对杰克奥特曼的战斗数据进行了准备。拥有惊人的防御力与强壮体格，还能从口中发射热光线，擅长和同伴配合压制对手。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/black-king"
+  },
+  {
+    "id": "birdon",
+    "name": "巴顿",
+    "en": "BIRDON",
+    "jp": "バードン",
+    "title": "火山怪鸟",
+    "era": "昭和",
+    "color": "#c3a38b",
+    "height": "62 m",
+    "debut": "《泰罗奥特曼》",
+    "abilities": [
+      "尖喙突刺",
+      "火焰喷射",
+      "空中飞行"
+    ],
+    "description": "在火山中孵化的古代肉食怪鸟，能以尖锐的鸟喙刺击对手，并从口部喷出火焰。它的飞行能力和凶猛攻势曾给泰罗与佐菲带来极大的威胁。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/birdon"
+  },
+  {
+    "id": "tyrant",
+    "name": "泰兰特",
+    "en": "TYRANT",
+    "jp": "タイラント",
+    "title": "暴君怪兽",
+    "era": "昭和",
+    "color": "#9fbaa7",
+    "height": "62 m",
+    "debut": "《泰罗奥特曼》",
+    "abilities": [
+      "死亡火焰",
+      "腹部冷气",
+      "武器格斗"
+    ],
+    "description": "由多只怪兽的特征组合而成的暴君怪兽，身体各部分都具有不同的力量。它能从口中喷出强烈火焰、从腹部释放冷气，并以武器般的双臂进行攻击。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/tyrant"
+  },
+  {
+    "id": "acekiller",
+    "name": "艾斯杀手",
+    "en": "ACE-KILLER",
+    "jp": "エースキラー",
+    "title": "异次元超人",
+    "era": "昭和",
+    "color": "#c8b080",
+    "height": "40 m",
+    "debut": "《艾斯奥特曼》",
+    "abilities": [
+      "奥特技能夺取",
+      "斯派修姆光线",
+      "艾梅利姆光线"
+    ],
+    "description": "亚波人为击败艾斯而制造的异次元战士。获得被夺取的奥特兄弟能力后，它能够连续使用多种奥特光线，以密集的特殊攻击和强韧身体压迫对手。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/ace-killer"
+  },
+  {
+    "id": "vakishim",
+    "name": "巴克西姆",
+    "en": "VAKISHIM",
+    "jp": "バキシム",
+    "title": "独角超兽",
+    "era": "昭和",
+    "color": "#b8b19a",
+    "height": "65 m",
+    "debut": "《艾斯奥特曼》",
+    "abilities": [
+      "导弹攻击",
+      "火焰放射",
+      "人类拟态"
+    ],
+    "description": "亚波人派遣的独角超兽，能够伪装成人类，并从空中出现袭击目标。鼻部与口部可发射导弹，还能喷射高温火焰，是兼具拟态和火力的强敌。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/vakishim"
+  },
+  {
+    "id": "golza",
+    "name": "哥尔赞",
+    "en": "GOLZA",
+    "jp": "ゴルザ",
+    "title": "超古代怪兽",
+    "era": "平成",
+    "color": "#a5ad99",
+    "height": "62 m",
+    "debut": "《迪迦奥特曼》",
+    "abilities": [
+      "超音波光线",
+      "地底掘进",
+      "强力搏斗"
+    ],
+    "description": "从三千万年的沉睡中苏醒、被称为震动大地的超古代怪兽。额部能够发射超音波光线，拥有厚重体格，也能迅速钻入地下，与美尔巴一同袭击过巨人石像。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/golza"
+  },
+  {
+    "id": "melba",
+    "name": "美尔巴",
+    "en": "MELBA",
+    "jp": "メルバ",
+    "title": "超古代龙",
+    "era": "平成",
+    "color": "#b2a99c",
+    "height": "57 m",
+    "debut": "《迪迦奥特曼》",
+    "abilities": [
+      "高速飞行",
+      "眼部光线",
+      "空中突击"
+    ],
+    "description": "被称为撕裂天空的超古代龙，与哥尔赞在同一时期苏醒。它能够高速飞行并从双眼发射能量光线，利用空中机动能力和俯冲攻击牵制对手。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/melba"
+  },
+  {
+    "id": "gazort",
+    "name": "加佐特",
+    "en": "GAZORT",
+    "jp": "ガゾート",
+    "title": "变形怪兽",
+    "era": "平成",
+    "color": "#a9c2b8",
+    "height": "59 m",
+    "debut": "《迪迦奥特曼》",
+    "abilities": [
+      "蓝色光弹",
+      "利齿咬击",
+      "空中作战"
+    ],
+    "description": "由电离层生物吸收过量电磁波后聚合而成的怪兽。口中能够发射蓝色能量攻击，并以尖牙咬住对手；在战斗中也会以装死等方式寻找反击机会。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/gazort"
+  },
+  {
+    "id": "silvergon",
+    "name": "希尔巴贡",
+    "en": "SILVERGON",
+    "jp": "シルバゴン",
+    "title": "刚力怪兽",
+    "era": "平成",
+    "color": "#b5bdbe",
+    "height": "65 m",
+    "debut": "《迪迦奥特曼》",
+    "abilities": [
+      "巨大怪力",
+      "坚硬银甲",
+      "屏障破坏"
+    ],
+    "description": "生活在神秘异境中的刚力怪兽，银色皮肤坚固，能够凭蛮力撕开屏障并压制敌人。它的视力存在弱点，主要能辨识移动中的物体。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/silvergon"
+  },
+  {
+    "id": "ganq",
+    "name": "眼Q",
+    "en": "GAN-Q",
+    "jp": "ガンQ",
+    "title": "奇兽",
+    "era": "平成",
+    "color": "#b3a0bd",
+    "height": "55 m",
+    "debut": "《盖亚奥特曼》",
+    "abilities": [
+      "攻击吸收",
+      "电磁波攻击",
+      "岩石投射"
+    ],
+    "description": "以巨大眼球为特征、无法用普通生命迹象解释的奇兽。能够吸收导弹与岩石并反射攻击，也会利用电磁波和诡异的笑声扰乱对手。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/gan-q"
+  },
+  {
+    "id": "galactron",
+    "name": "加拉特隆",
+    "en": "GALACTRON",
+    "jp": "ギャラクトロン",
+    "title": "文明裁决者",
+    "era": "新生代",
+    "color": "#d4c9b3",
+    "height": "61 m",
+    "debut": "《欧布奥特曼》",
+    "abilities": [
+      "裁决光束",
+      "机械长剑",
+      "头部机械臂"
+    ],
+    "description": "来自异次元的文明裁决机械，以独特材料和结构构成。头部延伸的机械臂可抓住目标，眼睛与胸口能够发射光束，右臂还能旋转成为长剑。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/galactron"
+  },
+  {
+    "id": "fiveking",
+    "name": "五帝王",
+    "en": "FIVE KING",
+    "jp": "ファイブキング",
+    "title": "超合体怪兽",
+    "era": "新生代",
+    "color": "#a7b0bc",
+    "height": "75 m",
+    "debut": "《银河奥特曼S》",
+    "abilities": [
+      "五兽合体能力",
+      "多方向攻击",
+      "飞行与吸收"
+    ],
+    "description": "由哥尔赞、美尔巴、眼Q等五只怪兽的力量融合而成。它能调用各部分的不同能力，以翅膀和双臂展开复合攻击，曾同时击败银河与维克特利。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/five-king-sdu"
+  },
+  {
+    "id": "metron",
+    "name": "梅特龙星人",
+    "en": "ALIEN METRON",
+    "jp": "メトロン星人",
+    "title": "幻觉宇宙人",
+    "era": "昭和",
+    "color": "#c19a87",
+    "height": "2–50 m",
+    "debut": "《赛文奥特曼》",
+    "abilities": [
+      "人类伪装",
+      "心理扰乱",
+      "飞碟航行"
+    ],
+    "description": "拥有红色长脸、蓝色身体和鳍状双手的宇宙人。擅长伪装并利用人类之间的不信任制定入侵计划，也能巨大化战斗；与诸星团对坐交谈的场景令人印象深刻。",
+    "source": "https://tsuburaya-prod.com/encyclopedia/alien-metron"
+  }
+]

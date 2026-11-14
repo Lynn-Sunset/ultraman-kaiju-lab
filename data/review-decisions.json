@@ -1,0 +1,1482 @@
+{
+  "K001": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000082021_2.jpg"
+  },
+  "K002": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000166488_1.jpg"
+  },
+  "K003": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000166488_2.jpg"
+  },
+  "K004": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000166488_3.jpg"
+  },
+  "K005": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000166488_4.jpg"
+  },
+  "K006": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000166488_5.jpg"
+  },
+  "K007": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000166488_6.jpg"
+  },
+  "K008": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000186151_1.jpg"
+  },
+  "K009": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000186151_2.jpg"
+  },
+  "K010": {
+    "status": "rejected",
+    "note": "Multiple characters or comparison composition; unsuitable for single-label classification.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000186151_3.jpg"
+  },
+  "K011": {
+    "status": "rejected",
+    "note": "Near-duplicate of an accepted pose with added promotional text.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000186151_4.jpg"
+  },
+  "K012": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000189714_1.jpg"
+  },
+  "K013": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000189714_2.jpg"
+  },
+  "K014": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000189714_3.jpg"
+  },
+  "K015": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000189714_4.jpg"
+  },
+  "K016": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000189714_5.jpg"
+  },
+  "K017": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000222776_1.jpg"
+  },
+  "K018": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/12/baltan.jpg"
+  },
+  "K019": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000082026_1.jpg"
+  },
+  "K020": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000082026_2.jpg"
+  },
+  "K021": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000140039_1.jpg"
+  },
+  "K022": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000140039_2.jpg"
+  },
+  "K023": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000140039_3.jpg"
+  },
+  "K024": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000140039_4.jpg"
+  },
+  "K025": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000140039_5.jpg"
+  },
+  "K026": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000189716_1.jpg"
+  },
+  "K027": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000189716_2.jpg"
+  },
+  "K028": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000189716_3.jpg"
+  },
+  "K029": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000189716_4.jpg"
+  },
+  "K030": {
+    "status": "rejected",
+    "note": "Character name/logo only; no monster visible.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/03/eleking_4.png"
+  },
+  "K031": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/12/eleking.jpg"
+  },
+  "K032": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000082023_2.jpg"
+  },
+  "K033": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000132918_1.jpg"
+  },
+  "K034": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000132918_2.jpg"
+  },
+  "K035": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000132918_3.jpg"
+  },
+  "K036": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000132918_4.jpg"
+  },
+  "K037": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000132918_5.jpg"
+  },
+  "K038": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000132918_6.jpg"
+  },
+  "K039": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000132918_7.jpg"
+  },
+  "K040": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000132918_8.jpg"
+  },
+  "K041": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000189715_1.jpg"
+  },
+  "K042": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000189715_2.jpg"
+  },
+  "K043": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000189715_3.jpg"
+  },
+  "K044": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000189715_4.jpg"
+  },
+  "K045": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000189715_5.jpg"
+  },
+  "K046": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000193738_1.jpg"
+  },
+  "K047": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000193738_2.jpg"
+  },
+  "K048": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000193738_3.jpg"
+  },
+  "K049": {
+    "status": "rejected",
+    "note": "Near-duplicate of an accepted pose with added promotional text.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000193738_4.jpg"
+  },
+  "K050": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2001/01/ゴモラ.jpg"
+  },
+  "K051": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000083799_1.jpg"
+  },
+  "K052": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000083799_2.jpg"
+  },
+  "K053": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000214088_1.jpg"
+  },
+  "K054": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000214088_2.jpg"
+  },
+  "K055": {
+    "status": "rejected",
+    "note": "Multiple characters or comparison composition; unsuitable for single-label classification.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000214088_3.jpg"
+  },
+  "K056": {
+    "status": "rejected",
+    "note": "Near-duplicate of an accepted pose with added promotional text.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000214088_4.jpg"
+  },
+  "K057": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/12/kanegon.jpg"
+  },
+  "K058": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000082626_1.jpg"
+  },
+  "K059": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000082626_2.jpg"
+  },
+  "K060": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000132919_1.jpg"
+  },
+  "K061": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000132919_2.jpg"
+  },
+  "K062": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000132919_3.jpg"
+  },
+  "K063": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000132919_4.jpg"
+  },
+  "K064": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000132919_5.jpg"
+  },
+  "K065": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000132919_6.jpg"
+  },
+  "K066": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000132919_7.jpg"
+  },
+  "K067": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000132919_8.jpg"
+  },
+  "K068": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000187777_1.jpg"
+  },
+  "K069": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000222775_1.jpg"
+  },
+  "K070": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000222775_2.jpg"
+  },
+  "K071": {
+    "status": "rejected",
+    "note": "Multiple characters or comparison composition; unsuitable for single-label classification.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000222775_3.jpg"
+  },
+  "K072": {
+    "status": "rejected",
+    "note": "Near-duplicate of an accepted pose with added promotional text.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000222775_4.jpg"
+  },
+  "K073": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2001/01/レッドキング.jpg"
+  },
+  "K074": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000082024_2.jpg"
+  },
+  "K075": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000140041_1.jpg"
+  },
+  "K076": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000140041_2.jpg"
+  },
+  "K077": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000140041_3.jpg"
+  },
+  "K078": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000140041_4.jpg"
+  },
+  "K079": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000140041_5.jpg"
+  },
+  "K080": {
+    "status": "rejected",
+    "note": "Pedanium Zetton fusion variant, outside the original Zetton class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000147195_1.jpg"
+  },
+  "K081": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000161947_1.jpg"
+  },
+  "K082": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000161947_2.jpg"
+  },
+  "K083": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000161947_3.jpg"
+  },
+  "K084": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000161947_4.jpg"
+  },
+  "K085": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000161947_5.jpg"
+  },
+  "K086": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000161947_6.jpg"
+  },
+  "K087": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000193737_1.jpg"
+  },
+  "K088": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000193737_2.jpg"
+  },
+  "K089": {
+    "status": "rejected",
+    "note": "Multiple characters or comparison composition; unsuitable for single-label classification.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000193737_3.jpg"
+  },
+  "K090": {
+    "status": "rejected",
+    "note": "Near-duplicate of an accepted pose with added promotional text.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000193737_4.jpg"
+  },
+  "K091": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000201609_1.jpg"
+  },
+  "K092": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000201609_2.jpg"
+  },
+  "K093": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000201609_3.jpg"
+  },
+  "K094": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000201609_4.jpg"
+  },
+  "K095": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/12/zetton.jpg"
+  },
+  "K096": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011744_mEi1gKBd_01.jpg"
+  },
+  "K097": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011744_mEi1gKBd_03.jpg"
+  },
+  "K098": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011744_mEi1gKBd_04.jpg"
+  },
+  "K099": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011744_mEi1gKBd_05.jpg"
+  },
+  "K100": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011744_mEi1gKBd_06.jpg"
+  },
+  "K101": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011744_mEi1gKBd_07.jpg"
+  },
+  "K102": {
+    "status": "rejected",
+    "note": "Multiple characters or comparison composition; unsuitable for single-label classification.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011744_mEi1gKBd_08.jpg"
+  },
+  "K103": {
+    "status": "rejected",
+    "note": "Multiple characters or comparison composition; unsuitable for single-label classification.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011744_mEi1gKBd_09.jpg"
+  },
+  "K104": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011744_mEi1gKBd_10.jpg"
+  },
+  "K105": {
+    "status": "rejected",
+    "note": "Related-product recommendation: wrong character or accessories; page-level label is incorrect.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011302_iNfFqkpX_02.jpg"
+  },
+  "K106": {
+    "status": "rejected",
+    "note": "Related-product recommendation: wrong character or accessories; page-level label is incorrect.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011316_X4AW01oT_02.jpg"
+  },
+  "K107": {
+    "status": "rejected",
+    "note": "Related-product recommendation: wrong character or accessories; page-level label is incorrect.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011424_xiCwFC01_02.jpg"
+  },
+  "K108": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011316_X4AW01oT_01.jpg"
+  },
+  "K109": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011316_X4AW01oT_03.jpg"
+  },
+  "K110": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011316_X4AW01oT_04.jpg"
+  },
+  "K111": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011316_X4AW01oT_05.jpg"
+  },
+  "K112": {
+    "status": "rejected",
+    "note": "Packaging/card graphic, vehicle, egg or transforming toy; unsuitable visual domain for this seed classifier.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011316_X4AW01oT_06.jpg"
+  },
+  "K113": {
+    "status": "rejected",
+    "note": "Multiple characters or comparison composition; unsuitable for single-label classification.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011316_X4AW01oT_07.jpg"
+  },
+  "K114": {
+    "status": "rejected",
+    "note": "Related-product recommendation: wrong character or accessories; page-level label is incorrect.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011303_THr7N3D2_02.jpg"
+  },
+  "K115": {
+    "status": "rejected",
+    "note": "Related-product recommendation: wrong character or accessories; page-level label is incorrect.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011304_n1UBopwO_02.jpg"
+  },
+  "K116": {
+    "status": "rejected",
+    "note": "Related-product recommendation: wrong character or accessories; page-level label is incorrect.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011305_kDLJdG5J_02.jpg"
+  },
+  "K117": {
+    "status": "rejected",
+    "note": "Related-product recommendation: wrong character or accessories; page-level label is incorrect.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/thumbnail/6c737101-6bb7-44f1-9b62-7f2102e1f740.webp"
+  },
+  "K118": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000015639_Un6lnAyj_01.jpg"
+  },
+  "K119": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000015639_DzACWQJa_03.jpg"
+  },
+  "K120": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000015639_DzACWQJa_04.jpg"
+  },
+  "K121": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000015639_DzACWQJa_05.jpg"
+  },
+  "K122": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000015639_DzACWQJa_06.jpg"
+  },
+  "K123": {
+    "status": "rejected",
+    "note": "Multiple characters or comparison composition; unsuitable for single-label classification.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000015639_DzACWQJa_07.jpg"
+  },
+  "K124": {
+    "status": "rejected",
+    "note": "Related-product recommendation: wrong character or accessories; page-level label is incorrect.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/thumbnail/7f02deac-970a-4b5d-a6c8-8c2661ed9c9c.webp"
+  },
+  "K125": {
+    "status": "rejected",
+    "note": "Related-product recommendation: wrong character or accessories; page-level label is incorrect.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/thumbnail/5382ff1a-6930-4cd4-9aac-38939d0b50f2.webp"
+  },
+  "K126": {
+    "status": "rejected",
+    "note": "Related-product recommendation: wrong character or accessories; page-level label is incorrect.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/thumbnail/7688b957-216e-4b28-b0ca-759d109d6e90.webp"
+  },
+  "K127": {
+    "status": "rejected",
+    "note": "Related-product recommendation: wrong character or accessories; page-level label is incorrect.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/thumbnail/8d3be6c5-a9a0-43d7-be85-b46c2140efd9.webp"
+  },
+  "K128": {
+    "status": "rejected",
+    "note": "Related-product recommendation: wrong character or accessories; page-level label is incorrect.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/thumbnail/56b61bbc-f355-48da-ba5e-b65de7d6b327.webp"
+  },
+  "K129": {
+    "status": "rejected",
+    "note": "Related-product recommendation: wrong character or accessories; page-level label is incorrect.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/thumbnail/16b30d80-091b-44a1-bcb9-a137bf71e255.webp"
+  },
+  "K130": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000014347_nXsjPyYL_01.jpg"
+  },
+  "K131": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000014347_XYnn4pk2_03.jpg"
+  },
+  "K132": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000014347_XYnn4pk2_04.jpg"
+  },
+  "K133": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000014347_XYnn4pk2_05.jpg"
+  },
+  "K134": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000014347_XYnn4pk2_06.jpg"
+  },
+  "K135": {
+    "status": "rejected",
+    "note": "Multiple characters or comparison composition; unsuitable for single-label classification.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000014347_XYnn4pk2_07.jpg"
+  },
+  "K136": {
+    "status": "accepted",
+    "note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000014347_XYnn4pk2_08.jpg"
+  },
+  "K137": {
+    "status": "rejected",
+    "note": "Related-product recommendation: wrong character or accessories; page-level label is incorrect.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/thumbnail/d31461da-0a81-4316-aa50-3ca52d041d14.webp"
+  },
+  "K138": {
+    "status": "rejected",
+    "note": "Related-product recommendation: wrong character or accessories; page-level label is incorrect.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/thumbnail/72ed7d4d-f560-47f2-9ee4-338e824431a8.webp"
+  },
+  "K139": {
+    "status": "rejected",
+    "note": "Related-product recommendation: wrong character or accessories; page-level label is incorrect.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000014970_EKcBkkfK_02.jpg"
+  },
+  "K140": {
+    "status": "rejected",
+    "note": "Related-product recommendation: wrong character or accessories; page-level label is incorrect.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000014543_tRlrCPkU_02.jpg"
+  },
+  "K141": {
+    "status": "rejected",
+    "note": "Related-product recommendation: wrong character or accessories; page-level label is incorrect.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000014305_MV5vm8t3_02.jpg"
+  },
+  "K142": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2001/01/ピグモン.jpg"
+  },
+  "K143": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000113299_2.jpg"
+  },
+  "K144": {
+    "status": "rejected",
+    "note": "Multiple different characters or product-comparison composition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000251694_1.jpg"
+  },
+  "K145": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000251694_2.jpg"
+  },
+  "K146": {
+    "status": "rejected",
+    "note": "Card, accessory or long promotional collage instead of a usable character photo.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000251694_3.jpg"
+  },
+  "K147": {
+    "status": "rejected",
+    "note": "Multiple different characters or product-comparison composition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000251694_4.jpg"
+  },
+  "K148": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000113299_1.jpg"
+  },
+  "K149": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/KingJoe_list.jpg"
+  },
+  "K150": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000082029_2.jpg"
+  },
+  "K151": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000209565_1.jpg"
+  },
+  "K152": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000209565_2.jpg"
+  },
+  "K153": {
+    "status": "rejected",
+    "note": "Multiple different characters or product-comparison composition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000209565_3.jpg"
+  },
+  "K154": {
+    "status": "rejected",
+    "note": "Near-duplicate/catalog copy of an accepted product pose.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000209565_4.jpg"
+  },
+  "K155": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000162834_1.jpg"
+  },
+  "K156": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000148284_1.jpg"
+  },
+  "K157": {
+    "status": "rejected",
+    "note": "Multiple different characters or product-comparison composition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000148284_2.jpg"
+  },
+  "K158": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000148284_3.jpg"
+  },
+  "K159": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000148284_4.jpg"
+  },
+  "K160": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000148284_5.jpg"
+  },
+  "K161": {
+    "status": "rejected",
+    "note": "Multiple different characters or product-comparison composition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000148284_6.jpg"
+  },
+  "K162": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/ULM_Mon_37.jpg"
+  },
+  "K163": {
+    "status": "rejected",
+    "note": "Near-duplicate/catalog copy of an accepted product pose.",
+    "image_url": "https://toy.bandai.co.jp/ja/series/ultraman/images/sofubi/item/img_kaijyu0083.jpg"
+  },
+  "K164": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000191084_1.jpg"
+  },
+  "K165": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000162835_1.jpg"
+  },
+  "K166": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000162835_2.jpg"
+  },
+  "K167": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000119198_1.jpg"
+  },
+  "K168": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000119198_2.jpg"
+  },
+  "K169": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/ULM_Mon_02-3.jpg"
+  },
+  "K170": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000146157_1.jpg"
+  },
+  "K171": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000209921_1.jpg"
+  },
+  "K172": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2001/01/ベムラー-1.jpg"
+  },
+  "K173": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000092879_2.jpg"
+  },
+  "K174": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000175895_1.jpg"
+  },
+  "K175": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000109595_1.jpg"
+  },
+  "K176": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000109595_2.jpg"
+  },
+  "K177": {
+    "status": "rejected",
+    "note": "Card, accessory or long promotional collage instead of a usable character photo.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000109595_3.jpg"
+  },
+  "K178": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/ULM_Mon_31.jpg"
+  },
+  "K179": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000119200_2.jpg"
+  },
+  "K180": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://toy.bandai.co.jp/ja/series/ultraman/images/sofubi/item/img_kaijyu0085_2.jpg"
+  },
+  "K181": {
+    "status": "rejected",
+    "note": "Near-duplicate/catalog copy of an accepted product pose.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000235400_1.jpg"
+  },
+  "K182": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000216028_1.jpg"
+  },
+  "K183": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000160452_1.jpg"
+  },
+  "K184": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/ULM_Mon_06.jpg"
+  },
+  "K185": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000082624_2.jpg"
+  },
+  "K186": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000102100_1.jpg"
+  },
+  "K187": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000102100_2.jpg"
+  },
+  "K188": {
+    "status": "rejected",
+    "note": "Card, accessory or long promotional collage instead of a usable character photo.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000102100_3.jpg"
+  },
+  "K189": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000082624_1.jpg"
+  },
+  "K190": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2022/10/ULM_Mon_30-2.jpg"
+  },
+  "K191": {
+    "status": "rejected",
+    "note": "Near-duplicate/catalog copy of an accepted product pose.",
+    "image_url": "https://toy.bandai.co.jp/ja/series/ultraman/images/sofubi/item/img_kaijyu0246.jpg"
+  },
+  "K192": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000247073_1.jpg"
+  },
+  "K193": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Gudon-Top.jpg"
+  },
+  "K194": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000089664_2.jpg"
+  },
+  "K195": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000089664_1.jpg"
+  },
+  "K196": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Twintail-Top.png"
+  },
+  "K197": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000089663_2.jpg"
+  },
+  "K198": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000089663_1.jpg"
+  },
+  "K199": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Bemstar-Top.png"
+  },
+  "K200": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000082629_2.jpg"
+  },
+  "K201": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000082629_1.jpg"
+  },
+  "K202": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Black-King-Top.jpg"
+  },
+  "K203": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000082030_2.jpg"
+  },
+  "K204": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000082030_1.jpg"
+  },
+  "K205": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/10/Birdon-Profile.jpg"
+  },
+  "K206": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000094198_2.jpg"
+  },
+  "K207": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000094198_1.jpg"
+  },
+  "K208": {
+    "status": "rejected",
+    "note": "Name/logo graphic without the character.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/12/TYRANT1.png"
+  },
+  "K209": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/12/tyrant.jpg"
+  },
+  "K210": {
+    "status": "rejected",
+    "note": "Near-duplicate/catalog copy of an accepted product pose.",
+    "image_url": "https://toy.bandai.co.jp/ja/series/ultraman/images/sofubi/item/img_kaijyu0081.jpg"
+  },
+  "K211": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000192462_1.jpg"
+  },
+  "K212": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000117301_1.jpg"
+  },
+  "K213": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000117301_2.jpg"
+  },
+  "K214": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000085992_1.jpg"
+  },
+  "K215": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000085992_2.jpg"
+  },
+  "K216": {
+    "status": "rejected",
+    "note": "Multiple different characters or product-comparison composition.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Ace-Killer-Cut.jpg"
+  },
+  "K217": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000096531_2.jpg"
+  },
+  "K218": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000096531_1.jpg"
+  },
+  "K219": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Vakishim-Cut.jpg"
+  },
+  "K220": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000082633_2.jpg"
+  },
+  "K221": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000082633_1.jpg"
+  },
+  "K222": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2002/01/ゴルザ.jpg"
+  },
+  "K223": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000152497_1.jpg"
+  },
+  "K224": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000102099_1.jpg"
+  },
+  "K225": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000102099_2.jpg"
+  },
+  "K226": {
+    "status": "rejected",
+    "note": "Card, accessory or long promotional collage instead of a usable character photo.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000102099_3.jpg"
+  },
+  "K227": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000083363_1.jpg"
+  },
+  "K228": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000083363_2.jpg"
+  },
+  "K229": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2002/01/Melba_main.png"
+  },
+  "K230": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000091044_2.jpg"
+  },
+  "K231": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000091044_1.jpg"
+  },
+  "K232": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/02/ガゾート.jpg"
+  },
+  "K233": {
+    "status": "rejected",
+    "note": "Near-duplicate/catalog copy of an accepted product pose.",
+    "image_url": "https://toy.bandai.co.jp/ja/series/ultraman/images/sofubi/item/img_kaijyu0151.jpg"
+  },
+  "K234": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000160451_1.jpg"
+  },
+  "K235": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2026/02/シルバゴン.jpg"
+  },
+  "K236": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000083356_2.jpg"
+  },
+  "K237": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000083356_1.jpg"
+  },
+  "K238": {
+    "status": "rejected",
+    "note": "Name/logo graphic without the character.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/06/名前.png"
+  },
+  "K239": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/12/ganq2.jpg"
+  },
+  "K240": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2019/10/ギャラクトロン.jpg"
+  },
+  "K241": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000134479_2.jpg"
+  },
+  "K242": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000134479_1.jpg"
+  },
+  "K243": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000120524_1.jpg"
+  },
+  "K244": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000120524_2.jpg"
+  },
+  "K245": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000119202_1.jpg"
+  },
+  "K246": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000119202_2.jpg"
+  },
+  "K247": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2025/02/Five-King_profile.jpg"
+  },
+  "K248": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000133249_2.jpg"
+  },
+  "K249": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000133249_1.jpg"
+  },
+  "K250": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000092880_1.jpg"
+  },
+  "K251": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000092880_2.jpg"
+  },
+  "K252": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000092880_3.jpg"
+  },
+  "K253": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2002/01/メトロン星人.jpg"
+  },
+  "K254": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000093583_2.jpg"
+  },
+  "K255": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000220897_1.jpg"
+  },
+  "K256": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000220897_2.jpg"
+  },
+  "K257": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000220897_3.jpg"
+  },
+  "K258": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000220897_4.jpg"
+  },
+  "K259": {
+    "status": "rejected",
+    "note": "Near-duplicate/catalog copy of an accepted product pose.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000220897_5.jpg"
+  },
+  "K260": {
+    "status": "rejected",
+    "note": "Multiple different characters or product-comparison composition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000220897_6.jpg"
+  },
+  "K261": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000109598_1.jpg"
+  },
+  "K262": {
+    "status": "rejected",
+    "note": "Distinct derivative, fusion, mechanical, powered, armed or stylized toy variant outside the class definition.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000109598_2.jpg"
+  },
+  "K263": {
+    "status": "rejected",
+    "note": "Card, accessory or long promotional collage instead of a usable character photo.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000109598_3.jpg"
+  },
+  "K264": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000093583_1.jpg"
+  },
+  "K265": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000012466_PmVamUZk_01.jpg"
+  },
+  "K266": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000012466_PmVamUZk_03.jpg"
+  },
+  "K267": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000012466_PmVamUZk_04.jpg"
+  },
+  "K268": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000012466_PmVamUZk_05.jpg"
+  },
+  "K269": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000012466_PmVamUZk_06.jpg"
+  },
+  "K270": {
+    "status": "rejected",
+    "note": "Multiple different characters or product-comparison composition.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000012466_PmVamUZk_07.jpg"
+  },
+  "K271": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000012466_PmVamUZk_08.jpg"
+  },
+  "K272": {
+    "status": "rejected",
+    "note": "Multiple different characters or product-comparison composition.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000012466_PmVamUZk_09.jpg"
+  },
+  "K273": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000012643_hQIJtFTn_01.jpg"
+  },
+  "K274": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000012643_hQIJtFTn_03.jpg"
+  },
+  "K275": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000012643_hQIJtFTn_04.jpg"
+  },
+  "K276": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000012643_hQIJtFTn_05.jpg"
+  },
+  "K277": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000012643_hQIJtFTn_06.jpg"
+  },
+  "K278": {
+    "status": "rejected",
+    "note": "Multiple different characters or product-comparison composition.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000012643_hQIJtFTn_07.jpg"
+  },
+  "K279": {
+    "status": "rejected",
+    "note": "Multiple different characters or product-comparison composition.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000012643_hQIJtFTn_08.jpg"
+  },
+  "K280": {
+    "status": "rejected",
+    "note": "Card, accessory or long promotional collage instead of a usable character photo.",
+    "image_url": "https://tamashiiweb.com/assets/item/16167_antlar60th/item_16167_n5jzdQd7.webp"
+  },
+  "K281": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011652_IMwZnWGU_01.jpg"
+  },
+  "K282": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011652_IMwZnWGU_03.jpg"
+  },
+  "K283": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011652_IMwZnWGU_04.jpg"
+  },
+  "K284": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011652_IMwZnWGU_05.jpg"
+  },
+  "K285": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011652_IMwZnWGU_06.jpg"
+  },
+  "K286": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage/images/products/imported/item_0000011652_IMwZnWGU_07.jpg"
+  },
+  "K287": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage//images/products/imported/item_0000012205_xOVlreEa_01.jpg"
+  },
+  "K288": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage//images/products/imported/item_0000012205_xOVlreEa_03.jpg"
+  },
+  "K289": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage//images/products/imported/item_0000012205_xOVlreEa_04.jpg"
+  },
+  "K290": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage//images/products/imported/item_0000012205_xOVlreEa_05.jpg"
+  },
+  "K291": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage//images/products/imported/item_0000012205_xOVlreEa_06.jpg"
+  },
+  "K292": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage//images/products/imported/item_0000012205_xOVlreEa_07.jpg"
+  },
+  "K293": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage//images/products/imported/item_0000012205_xOVlreEa_08.jpg"
+  },
+  "K294": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://tamashiiweb.com/storage//images/products/imported/item_0000012205_xOVlreEa_09.jpg"
+  },
+  "K295": {
+    "status": "accepted",
+    "note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
+    "image_url": "https://bandai-a.akamaihd.net/bc/img/model/xl/1000083357_2.jpg"
+  },
+  "K296": {
+    "status": "accepted",
+    "note": "Reviewed target bounding-box crop from K216; background character faces excluded. Shares the original source group to prevent split leakage.",
+    "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Ace-Killer-Cut.jpg"
+  }
+}

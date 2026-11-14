@@ -1,0 +1,438 @@
+{
+  "classes": [
+    "acekiller",
+    "antlar",
+    "baltan",
+    "bemstar",
+    "bemular",
+    "birdon",
+    "blackking",
+    "dada",
+    "eleking",
+    "fiveking",
+    "galactron",
+    "ganq",
+    "gazort",
+    "golza",
+    "gomora",
+    "gubila",
+    "gudon",
+    "jamila",
+    "kanegon",
+    "kingjoe",
+    "melba",
+    "metron",
+    "neronga",
+    "pigmon",
+    "redking",
+    "silvergon",
+    "twintail",
+    "tyrant",
+    "vakishim",
+    "zetton"
+  ],
+  "best_validation_accuracy": 0.5,
+  "best_balanced_accuracy": 0.4833333194255829,
+  "selection_metric": "balanced_accuracy",
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 3.443476028609694,
+      "validation_accuracy": 0.325,
+      "balanced_accuracy": 0.3333333432674408
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.332369403880939,
+      "validation_accuracy": 0.45,
+      "balanced_accuracy": 0.4166666567325592
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.3677972654501597,
+      "validation_accuracy": 0.425,
+      "balanced_accuracy": 0.4166666567325592
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.115887701642095,
+      "validation_accuracy": 0.45,
+      "balanced_accuracy": 0.4333333373069763
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.048564813442920386,
+      "validation_accuracy": 0.475,
+      "balanced_accuracy": 0.46666666865348816
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.029551161681873758,
+      "validation_accuracy": 0.475,
+      "balanced_accuracy": 0.46666666865348816
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.04914706640697101,
+      "validation_accuracy": 0.45,
+      "balanced_accuracy": 0.44999998807907104
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.01579992281959245,
+      "validation_accuracy": 0.45,
+      "balanced_accuracy": 0.44999998807907104
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.01315923733228262,
+      "validation_accuracy": 0.425,
+      "balanced_accuracy": 0.4000000059604645
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.010229466548352911,
+      "validation_accuracy": 0.425,
+      "balanced_accuracy": 0.4000000059604645
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.01421543825499452,
+      "validation_accuracy": 0.45,
+      "balanced_accuracy": 0.4333333373069763
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.008971513910709243,
+      "validation_accuracy": 0.425,
+      "balanced_accuracy": 0.4000000059604645
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.006566539586505346,
+      "validation_accuracy": 0.425,
+      "balanced_accuracy": 0.4000000059604645
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.006262119377456736,
+      "validation_accuracy": 0.425,
+      "balanced_accuracy": 0.4000000059604645
+    },
+    {
+      "epoch": 15,
+      "train_loss": 0.007652649541565201,
+      "validation_accuracy": 0.45,
+      "balanced_accuracy": 0.4333333373069763
+    },
+    {
+      "epoch": 16,
+      "train_loss": 0.004248355474453746,
+      "validation_accuracy": 0.475,
+      "balanced_accuracy": 0.46666666865348816
+    },
+    {
+      "epoch": 17,
+      "train_loss": 0.00417830500130852,
+      "validation_accuracy": 0.475,
+      "balanced_accuracy": 0.46666666865348816
+    },
+    {
+      "epoch": 18,
+      "train_loss": 0.007149924274958801,
+      "validation_accuracy": 0.425,
+      "balanced_accuracy": 0.4000000059604645
+    },
+    {
+      "epoch": 19,
+      "train_loss": 0.004574069277416065,
+      "validation_accuracy": 0.425,
+      "balanced_accuracy": 0.4000000059604645
+    },
+    {
+      "epoch": 20,
+      "train_loss": 0.003272871539944358,
+      "validation_accuracy": 0.425,
+      "balanced_accuracy": 0.4000000059604645
+    },
+    {
+      "epoch": 21,
+      "train_loss": 0.004201340283830895,
+      "validation_accuracy": 0.425,
+      "balanced_accuracy": 0.4000000059604645
+    },
+    {
+      "epoch": 22,
+      "train_loss": 0.0022815354352228737,
+      "validation_accuracy": 0.425,
+      "balanced_accuracy": 0.4000000059604645
+    },
+    {
+      "epoch": 23,
+      "train_loss": 0.003088911782884807,
+      "validation_accuracy": 0.425,
+      "balanced_accuracy": 0.4000000059604645
+    },
+    {
+      "epoch": 24,
+      "train_loss": 0.0015666651577288448,
+      "validation_accuracy": 0.45,
+      "balanced_accuracy": 0.4333333373069763
+    },
+    {
+      "epoch": 25,
+      "train_loss": 0.002136287016981984,
+      "validation_accuracy": 0.45,
+      "balanced_accuracy": 0.4333333373069763
+    },
+    {
+      "epoch": 26,
+      "train_loss": 0.00382293980331732,
+      "validation_accuracy": 0.45,
+      "balanced_accuracy": 0.4333333373069763
+    },
+    {
+      "epoch": 27,
+      "train_loss": 0.002086421756662036,
+      "validation_accuracy": 0.45,
+      "balanced_accuracy": 0.4333333373069763
+    },
+    {
+      "epoch": 28,
+      "train_loss": 0.00203143664341616,
+      "validation_accuracy": 0.45,
+      "balanced_accuracy": 0.4333333373069763
+    },
+    {
+      "epoch": 29,
+      "train_loss": 0.002390899493260995,
+      "validation_accuracy": 0.45,
+      "balanced_accuracy": 0.4333333373069763
+    },
+    {
+      "epoch": 30,
+      "train_loss": 0.001359231261487462,
+      "validation_accuracy": 0.45,
+      "balanced_accuracy": 0.4333333373069763
+    },
+    {
+      "epoch": 31,
+      "train_loss": 0.0015510824946033065,
+      "validation_accuracy": 0.45,
+      "balanced_accuracy": 0.4333333373069763
+    },
+    {
+      "epoch": 32,
+      "train_loss": 0.0018177809757425596,
+      "validation_accuracy": 0.45,
+      "balanced_accuracy": 0.4333333373069763
+    },
+    {
+      "epoch": 33,
+      "train_loss": 0.0014124270160927584,
+      "validation_accuracy": 0.45,
+      "balanced_accuracy": 0.4333333373069763
+    },
+    {
+      "epoch": 34,
+      "train_loss": 0.001974791063714707,
+      "validation_accuracy": 0.45,
+      "balanced_accuracy": 0.4333333373069763
+    },
+    {
+      "epoch": 35,
+      "train_loss": 0.002095807195393973,
+      "validation_accuracy": 0.45,
+      "balanced_accuracy": 0.4166666567325592
+    },
+    {
+      "epoch": 36,
+      "train_loss": 0.002712881466753683,
+      "validation_accuracy": 0.5,
+      "balanced_accuracy": 0.4833333194255829
+    },
+    {
+      "epoch": 37,
+      "train_loss": 0.00108191033359617,
+      "validation_accuracy": 0.475,
+      "balanced_accuracy": 0.46666666865348816
+    },
+    {
+      "epoch": 38,
+      "train_loss": 0.0012103878370110404,
+      "validation_accuracy": 0.475,
+      "balanced_accuracy": 0.46666666865348816
+    },
+    {
+      "epoch": 39,
+      "train_loss": 0.0017389561817572829,
+      "validation_accuracy": 0.475,
+      "balanced_accuracy": 0.44999998807907104
+    },
+    {
+      "epoch": 40,
+      "train_loss": 0.0017685890550063433,
+      "validation_accuracy": 0.475,
+      "balanced_accuracy": 0.44999998807907104
+    }
+  ],
+  "train": [
+    "data/images/acekiller/db099af40ea35da4.jpg",
+    "data/images/acekiller/b0c783b788cbcb80.jpg",
+    "data/images/antlar/9b405df9aaa8b79b.jpg",
+    "data/images/baltan/b2c144fb5a3a1354.jpg",
+    "data/images/baltan/3dff804b4e22bdb4.jpg",
+    "data/images/baltan/68fd5a88b64084d7.jpg",
+    "data/images/baltan/0622a772ac57f6ae.jpg",
+    "data/images/baltan/aa33f8cefe97d750.jpg",
+    "data/images/baltan/de51c6d3a47a3fa3.jpg",
+    "data/images/baltan/7c20e1468a946abf.jpg",
+    "data/images/baltan/c0feb051e0c852fa.jpg",
+    "data/images/bemstar/ab093250bce02002.jpg",
+    "data/images/bemular/92ac2a5e5b448597.jpg",
+    "data/images/bemular/1c2d22fbfadb7224.jpg",
+    "data/images/birdon/325d49358e0cbaa4.jpg",
+    "data/images/birdon/a076bda5fe8bb075.jpg",
+    "data/images/blackking/9372affbb8dd2a68.jpg",
+    "data/images/dada/01627ac7a8641a96.jpg",
+    "data/images/dada/4eda743ba0941766.jpg",
+    "data/images/dada/04ed9c13ba33eded.jpg",
+    "data/images/dada/15c36bf6f224d8b2.jpg",
+    "data/images/dada/db3ef7ac6beaa446.jpg",
+    "data/images/dada/2e1a2e061008b1da.jpg",
+    "data/images/dada/4e548e89c7ddfca3.jpg",
+    "data/images/dada/1f71b7278768be2b.jpg",
+    "data/images/dada/589899bd29d8b5f1.jpg",
+    "data/images/dada/50b4d6df7466ec08.jpg",
+    "data/images/dada/96be3a468a860af8.jpg",
+    "data/images/eleking/2baebb43184a52e2.jpg",
+    "data/images/eleking/c1048758caf39b2c.jpg",
+    "data/images/eleking/38cc120f50354b14.jpg",
+    "data/images/eleking/326eea8bb2fb5aaa.jpg",
+    "data/images/eleking/c443b2b02bfc58f2.jpg",
+    "data/images/eleking/0421b34864e4f1aa.jpg",
+    "data/images/eleking/67c4b4fd5939c935.jpg",
+    "data/images/eleking/43074fac36fb7a7b.jpg",
+    "data/images/fiveking/951e1b0df61202b6.jpg",
+    "data/images/fiveking/c34ffd8a80d6a3c6.jpg",
+    "data/images/fiveking/123d9bfa07ee4e01.jpg",
+    "data/images/fiveking/738c20f0427b2150.jpg",
+    "data/images/galactron/e7e6670b4ee50afb.jpg",
+    "data/images/galactron/127d00ff90dd5284.jpg",
+    "data/images/ganq/6353d7fd50439dc4.jpg",
+    "data/images/gazort/409bb66b80f0b378.jpg",
+    "data/images/golza/8c4636a621d16247.jpg",
+    "data/images/gomora/f43d385dc6a3f47d.jpg",
+    "data/images/gomora/0a875a133af053cc.jpg",
+    "data/images/gomora/4899afe45ea2c8d5.jpg",
+    "data/images/gomora/74de5df0dd584d5e.jpg",
+    "data/images/gomora/a813f16dc5790960.jpg",
+    "data/images/gomora/1738414609d33531.jpg",
+    "data/images/gomora/25f4c47a24dff348.jpg",
+    "data/images/gomora/86de6d2e6df6791c.jpg",
+    "data/images/gomora/d458fa01c3b41fe7.jpg",
+    "data/images/gomora/9f7da271f6100122.jpg",
+    "data/images/gubila/9afd50413f4d161b.jpg",
+    "data/images/gubila/c59fe46499d3194a.jpg",
+    "data/images/gudon/3c4b62748e07a65f.jpg",
+    "data/images/gudon/2c4e7d1f8d829408.jpg",
+    "data/images/gudon/22d6aa8c1f216fb0.jpg",
+    "data/images/gudon/ebb76c44ade1e2d6.jpg",
+    "data/images/gudon/bc359b12576c7682.jpg",
+    "data/images/gudon/b59038a323ea1a28.jpg",
+    "data/images/jamila/177c3ce36998fadd.jpg",
+    "data/images/kanegon/2956bb47ee20e5c8.jpg",
+    "data/images/kanegon/e7814ce7cc135179.jpg",
+    "data/images/kanegon/747b60ab93ce0154.jpg",
+    "data/images/kingjoe/557e779dcf03bb72.jpg",
+    "data/images/kingjoe/71c5c4ed7195317e.jpg",
+    "data/images/melba/c9fe433212f5371e.jpg",
+    "data/images/melba/2e7b27115959c5e4.jpg",
+    "data/images/metron/4d37985236394107.jpg",
+    "data/images/metron/6114e2b5887592e4.jpg",
+    "data/images/metron/d7c60d080c2de259.jpg",
+    "data/images/metron/e0420f63f5089e08.jpg",
+    "data/images/metron/d999579bf61a1243.jpg",
+    "data/images/metron/9d75686975916430.jpg",
+    "data/images/metron/9dd9aaa2708ac380.jpg",
+    "data/images/metron/6caa40d25103957e.jpg",
+    "data/images/metron/6e0902be94be77e5.jpg",
+    "data/images/metron/3748be185f27f29c.jpg",
+    "data/images/metron/931f33bf12548b8d.jpg",
+    "data/images/metron/989892a8c0c1d1dc.jpg",
+    "data/images/neronga/9defa290b07a31a2.jpg",
+    "data/images/pigmon/7aac89b85bdf3c36.jpg",
+    "data/images/pigmon/e881252c5f630e7d.jpg",
+    "data/images/pigmon/6168a7df005554fc.jpg",
+    "data/images/redking/6c76eca9921dfe17.jpg",
+    "data/images/redking/6e0fb01a2507b70a.jpg",
+    "data/images/redking/df9d5105f9f38eec.jpg",
+    "data/images/redking/1f0651263524094a.jpg",
+    "data/images/silvergon/eed6d9d4cf44e50d.jpg",
+    "data/images/silvergon/198e9261e3f2f223.jpg",
+    "data/images/twintail/06d3df5d17d19f7e.jpg",
+    "data/images/twintail/fd56456ae9ba2998.jpg",
+    "data/images/twintail/463c045eb9b8f379.jpg",
+    "data/images/twintail/27f8f9a26df2e82e.jpg",
+    "data/images/twintail/1408424bd10505fe.jpg",
+    "data/images/twintail/6b55eadef505fe95.jpg",
+    "data/images/twintail/e142f735fef64e8a.jpg",
+    "data/images/twintail/87079e3d933847bc.jpg",
+    "data/images/tyrant/1bed029852238b6e.jpg",
+    "data/images/tyrant/a02f12c16c2497e5.jpg",
+    "data/images/tyrant/6012cbb9e6836420.jpg",
+    "data/images/tyrant/9eda102df2a586d8.jpg",
+    "data/images/vakishim/c483cd1d290d09de.jpg",
+    "data/images/zetton/d5b03162c7582a17.jpg",
+    "data/images/zetton/9eaac038276b267f.jpg",
+    "data/images/zetton/8a5b64e430264ba1.jpg",
+    "data/images/zetton/2db87ac9e272c457.jpg",
+    "data/images/zetton/b00325a6c119de0f.jpg",
+    "data/images/zetton/7b9c2473da1ba052.jpg",
+    "data/images/zetton/97df5911eb7b2239.jpg",
+    "data/images/zetton/e72b4a949bc59cd4.jpg"
+  ],
+  "validation": [
+    "data/images/acekiller/crop-5525592c83aaa9c0.jpg",
+    "data/images/antlar/54985054032fa7bf.jpg",
+    "data/images/antlar/647bdf2590a83adf.jpg",
+    "data/images/baltan/ded534764d418539.jpg",
+    "data/images/bemstar/e978668e3912fb39.jpg",
+    "data/images/bemstar/c14301596a7e1365.jpg",
+    "data/images/bemular/c3dcd57cd2dbcbe8.jpg",
+    "data/images/birdon/0ce8fa42f6557581.jpg",
+    "data/images/blackking/34ed997589e06a07.jpg",
+    "data/images/blackking/007fcfd85d71c6e0.jpg",
+    "data/images/dada/41cbe030cbcc3d72.jpg",
+    "data/images/eleking/ad75fd49e6857426.jpg",
+    "data/images/fiveking/e9fb321bd8e5e00f.jpg",
+    "data/images/fiveking/aca91319b1af1ca0.jpg",
+    "data/images/galactron/8ab2bd57a2c566cd.jpg",
+    "data/images/ganq/8030ccd7b05cc716.jpg",
+    "data/images/gazort/d6370b9d4399af5c.jpg",
+    "data/images/golza/c84118ffbed3e2af.jpg",
+    "data/images/gomora/d025224d169715d5.jpg",
+    "data/images/gubila/edf9447cc1d4cae3.jpg",
+    "data/images/gudon/15b466342422b292.jpg",
+    "data/images/gudon/1ec89ec5dc79ae7c.jpg",
+    "data/images/jamila/cf82c36ebd80828e.jpg",
+    "data/images/kanegon/0146b58ba0beb673.jpg",
+    "data/images/kanegon/1693a2914567c7d8.jpg",
+    "data/images/kingjoe/c5e66232c308beda.jpg",
+    "data/images/kingjoe/ee32453d58193a93.jpg",
+    "data/images/melba/e0dd21dde5900c74.jpg",
+    "data/images/metron/b60131b64193b57c.jpg",
+    "data/images/neronga/f7a7dac6ab39ad23.jpg",
+    "data/images/pigmon/a52d83fc135492d3.jpg",
+    "data/images/redking/573cb97aa8a400b7.jpg",
+    "data/images/redking/67e8c8a4e7eb0622.jpg",
+    "data/images/silvergon/08dbe5b7ee5bda48.jpg",
+    "data/images/twintail/91626b293453f6c2.jpg",
+    "data/images/tyrant/c93c359ea0fb5fb7.jpg",
+    "data/images/tyrant/d47cac388f8efc5e.jpg",
+    "data/images/vakishim/37a3e47f3d31be38.jpg",
+    "data/images/vakishim/ccf4bbb720824436.jpg",
+    "data/images/zetton/8c3d6645300dc4b4.jpg"
+  ],
+  "caveat": "Small official product/reference seed set; validation is not a held-out test or human-photo benchmark."
+}

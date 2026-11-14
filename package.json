@@ -1,0 +1,13 @@
+{
+  "name": "ultraman-kaiju-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Thirty-class Ultraman monster matching, entirely in your browser.",
+  "scripts": {
+    "build": "node scripts/build-pages.mjs",
+    "prepare:runtime": "node scripts/copy-runtime.mjs"
+  },
+  "dependencies": {
+    "onnxruntime-web": "1.31.1"
+  }
+}
