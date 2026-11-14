@@ -9,7 +9,7 @@ const metadata = JSON.parse(await readFile(path.join(runtime, 'package.json'), '
 if (metadata.version !== '1.31.1') throw new Error('Unexpected ONNX Runtime version. Run npm ci.');
 const target = path.join(root, 'web', 'vendor');
 await mkdir(target, { recursive: true });
-for (const file of ['ort.wasm.min.mjs', 'ort-wasm-simd-threaded.mjs', 'ort-wasm-simd-threaded.wasm']) {
+for (const file of ['ort.wasm.bundle.min.mjs', 'ort-wasm-simd-threaded.wasm']) {
   await copyFile(path.join(runtime, 'dist', file), path.join(target, file));
 }
 const wasm = await readFile(path.join(target, 'ort-wasm-simd-threaded.wasm'));

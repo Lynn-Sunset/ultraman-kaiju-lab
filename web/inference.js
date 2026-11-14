@@ -11,13 +11,13 @@ export class BrowserClassifier {
       clearTimeout(request.timeout);
       data.error ? request.reject(new Error(data.error)) : request.resolve(data);
     };
-    this.worker.onerror = () => this.rejectAll(new Error('浏览器模型未能启动，请重试或使用较新版本的浏览器。'));
+    this.worker.onerror = () => this.rejectAll(new Error('errorWorker'));
   }
 
   request(type, fields, transfers = []) {
     return new Promise((resolve, reject) => {
       const id = ++this.nextId;
-      const timeout = setTimeout(() => { this.pending.delete(id); reject(new Error(type === 'load' ? '模型下载较慢，请检查网络后重试。' : '分析超时，请重新加载模型后重试。')); }, type === 'load' ? 180000 : 60000);
+      const timeout = setTimeout(() => { this.pending.delete(id); reject(new Error(type === 'load' ? 'errorDownloadTimeout' : 'errorPredictTimeout')); }, type === 'load' ? 180000 : 60000);
       this.pending.set(id, { resolve, reject, timeout });
       this.worker.postMessage({ id, type, ...fields }, transfers);
     });
@@ -28,7 +28,7 @@ export class BrowserClassifier {
   async predict(file, monsters) {
     const input = await preprocess(file, this.config.preprocessing);
     const { logits } = await this.request('predict', { input }, [input.buffer]);
-    if (logits.length !== this.config.classes.length || ![...logits].every(Number.isFinite)) throw new Error('模型输出异常，请重新加载。');
+    if (logits.length !== this.config.classes.length || ![...logits].every(Number.isFinite)) throw new Error('errorOutput');
     const max = Math.max(...logits);
     const weights = Array.from(logits, value => Math.exp(value - max));
     const total = weights.reduce((a, b) => a + b, 0);
@@ -42,13 +42,13 @@ export class BrowserClassifier {
     this.pending.clear();
   }
 
-  dispose() { this.rejectAll(new Error('模型已重新加载。')); this.worker.terminate(); }
+  dispose() { this.rejectAll(new Error('errorReload')); this.worker.terminate(); }
 }
 
 async function preprocess(file, config) {
   const bitmap = await createImageBitmap(file, { imageOrientation: 'from-image' });
   try {
-    if (bitmap.width * bitmap.height > 20000000) throw new Error('图片不能超过 2000 万像素。');
+    if (bitmap.width * bitmap.height > 20000000) throw new Error('errorPixels');
     const ratio = config.resize / Math.min(bitmap.width, bitmap.height);
     const width = Math.floor(bitmap.width * ratio), height = Math.floor(bitmap.height * ratio);
     const resized = document.createElement('canvas'); resized.width = width; resized.height = height;

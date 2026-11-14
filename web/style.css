@@ -31,7 +31,11 @@ button, a, input { touch-action: manipulation; }
 .header nav a:hover, .header nav button:hover { color: var(--red); }
 .hero { display: grid; grid-template-columns: 1.15fr 1fr; align-items: center; gap: 5%; padding: 40px 6% 37px; }
 .eyebrow { font-size: 11px; color: var(--red); border: 1px solid #f0c0c2; background: #fff5f3; border-radius: 30px; display: inline-block; padding: 5px 12px; }
-.eyebrow b { font-weight: 700; }
+.language-picker { display: flex; align-items: center; gap: 6px; font-size: 12px; }
+.language-picker select { color: var(--text); background: white; border: 1px solid var(--line); border-radius: 5px; padding: 6px; }
+.header nav { margin-left: auto; margin-right: 20px; }
+.hero-first, h2 > span[data-i18n], .panel-heading > .panel-label { color: inherit; font: inherit; }
+h1 > .hero-first { color: inherit; }
 h1 { font-size: clamp(37px, 4.5vw, 57px); line-height: 1.35; margin: 17px 0 13px; font-weight: 800; letter-spacing: -1px; }
 h1 > span { color: var(--red); }
 .hero-copy > p { font-size: 12px; color: var(--muted); margin: 0 0 22px; }
@@ -152,7 +156,10 @@ dialog::backdrop { background: #4b242c55; backdrop-filter: blur(4px); }
   .panel { padding: 20px; }
 }
 @media (max-width: 700px) {
-  .header { height: 77px; padding: 0 6%; }
+  .header { height: auto; padding: 14px 6%; flex-wrap: wrap; gap: 10px; }
+  .header nav { order: 3; width: 100%; margin: 0; flex-wrap: wrap; }
+  .hero-copy { min-width: 0; overflow-wrap: anywhere; }
+  .language-picker { margin-left: auto; }
   .brand { font-size: 16px; gap: 8px; }
   .brand-mark { font-size: 35px; }
   .brand small { font-size: 8px; letter-spacing: 2px; }
