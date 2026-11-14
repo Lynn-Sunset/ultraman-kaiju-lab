@@ -4,6 +4,7 @@ import { renderIdentityCard } from './identity-card.js';
 const $ = selector => document.querySelector(selector);
 const escapeHTML = value => String(value).replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char]));
 let monsters = [], config, classifier, modelReady = false, busy = false, selectedFile, previewURL, currentResult, selectionId = 0;
+let modelFailed = false;
 const emptyResult = $('#result-content').innerHTML;
 const input = $('#photo-input'), dropzone = $('#dropzone'), classifyButton = $('#classify-button');
 
@@ -17,16 +18,18 @@ function showError(message = '') { $('#upload-error').textContent = message; $('
 function toast(message) { $('#toast').textContent = message; $('#toast').hidden = false; clearTimeout(toast.timer); toast.timer = setTimeout(() => $('#toast').hidden = true, 4000); }
 function updateButton() {
   classifyButton.disabled = !modelReady || !selectedFile || busy;
-  classifyButton.firstElementChild.textContent = busy ? '正在匹配…' : modelReady ? '揭晓我的怪兽' : '准备模型中…';
+  classifyButton.firstElementChild.textContent = busy ? '正在匹配…' : modelReady ? '揭晓我的怪兽' : modelFailed ? '模型加载失败' : '准备模型中…';
 }
 
 async function initializeModel() {
-  modelReady = false; $('#retry-model').hidden = true; $('#model-state').textContent = '正在准备模型…'; updateButton();
-  classifier?.dispose(); classifier = new BrowserClassifier();
+  modelReady = false; modelFailed = false; showError(); $('#retry-model').hidden = true; $('#model-state').textContent = '正在准备模型…'; updateButton();
+  classifier?.dispose();
   try {
-    await classifier.load(config);
+    classifier = new BrowserClassifier();
+    await classifier.load(config, progress => { $('#model-state').textContent = progress; });
     modelReady = true; $('#model-state').textContent = `${config.classes.length} 类怪兽已就绪`;
   } catch (error) {
+    modelFailed = true; classifier?.dispose();
     $('#model-state').textContent = '模型未能加载'; $('#retry-model').hidden = false;
     showError(error.message);
   }
@@ -147,5 +150,6 @@ try {
   renderArchive(); await initializeModel();
 } catch (error) {
   $('#archive-grid').innerHTML = '<p class="error">图鉴加载失败，请检查网络后刷新。</p>';
+  modelFailed = true; updateButton();
   $('#model-state').textContent = '加载失败'; showError(error.message);
 }

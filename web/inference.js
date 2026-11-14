@@ -6,6 +6,7 @@ export class BrowserClassifier {
     this.worker.onmessage = ({ data }) => {
       const request = this.pending.get(data.id);
       if (!request) return;
+      if (data.progress) { this.onProgress?.(data.progress); return; }
       this.pending.delete(data.id);
       clearTimeout(request.timeout);
       data.error ? request.reject(new Error(data.error)) : request.resolve(data);
@@ -22,7 +23,7 @@ export class BrowserClassifier {
     });
   }
 
-  async load(config) { this.config = config; await this.request('load', { config }); }
+  async load(config, onProgress) { this.config = config; this.onProgress = onProgress; await this.request('load', { config }); }
 
   async predict(file, monsters) {
     const input = await preprocess(file, this.config.preprocessing);

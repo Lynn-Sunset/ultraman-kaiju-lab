@@ -1,5 +1,6 @@
 import { cp, lstat, mkdir, readFile, readdir, rm, stat, writeFile } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
+import { gzipSync } from 'node:zlib';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -21,6 +22,9 @@ const keys = new Set(monsters.map(monster => monster.id));
 if (keys.size !== 30 || model.classes.length !== keys.size || model.classes.some(key => !keys.has(key))) throw new Error('Class catalog mismatch.');
 const bytes = await readFile(path.join(dist, model.modelFile));
 if (createHash('sha256').update(bytes).digest('hex') !== model.sha256) throw new Error('Model checksum mismatch. Run export_browser.py.');
+model.compressedModelFile = `${model.modelFile}.gz`;
+await writeFile(path.join(dist, model.compressedModelFile), gzipSync(bytes, { level: 9 }));
+await writeFile(path.join(dist, 'data', 'model.json'), JSON.stringify(model));
 for (const monster of monsters) await stat(path.join(dist, 'portraits', `${monster.id}.jpg`));
 const html = await readFile(path.join(dist, 'index.html'), 'utf8');
 if (/\b(?:src|href)=["']\/(?!\/)/.test(html)) throw new Error('Root-absolute asset path is incompatible with project Pages.');
