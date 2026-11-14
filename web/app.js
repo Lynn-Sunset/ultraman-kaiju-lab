@@ -78,7 +78,7 @@ function renderResult(result) {
   currentResult = result;
   const monster = result.winner;
   $('#result-status').textContent = result.mode === 'demo' ? '示例' : '匹配完成';
-  $('#result-content').innerHTML = `${result.mode === 'demo' ? '<p class="demo-note">预设示例，与上传照片无关。</p>' : ''}<div class="winner-header"><div class="winner-portrait"><img src="./portraits/${monster.id}.jpg" alt="${escapeHTML(monster.name)}"></div><div class="winner-intro"><span>你的怪兽身份</span><h3>你是${escapeHTML(monster.name)}</h3><p>${escapeHTML(monster.title)}</p></div></div><div class="result-abilities">${monster.abilities.map(ability => `<span>${escapeHTML(ability)}</span>`).join('')}</div><p class="winner-description">${escapeHTML(monster.description)}</p><div class="rank-label"><span>匹配排名</span><span>相对类别得分</span></div><div class="ranking-list">${result.ranking.map((row, index) => `<div class="rank-row"${index >= 5 ? ' hidden' : ''}><span>${escapeHTML(row.monster.name)}</span><div class="rank-track"><span style="width:${(row.score * 100).toFixed(3)}%"></span></div><span>${(row.score * 100).toFixed(1)}%</span></div>`).join('')}</div>${result.ranking.length > 5 ? `<button class="text-button ranking-toggle" aria-expanded="false">查看全部 ${result.ranking.length} 类 ↓</button>` : ''}<div class="result-actions"><button class="secondary" id="save-card">↓ 保存身份卡</button><button class="text-button" id="try-again">再测一次 ↗</button></div>`;
+  $('#result-content').innerHTML = `${result.mode === 'demo' ? '<p class="demo-note">预设示例，与上传照片无关。</p>' : ''}<div class="winner-header"><div class="winner-portrait"><img src="./portraits/${monster.id}.jpg" alt="${escapeHTML(monster.name)}"></div><div class="winner-intro"><span>你的怪兽身份</span><h3>你是${escapeHTML(monster.name)}</h3><p>${escapeHTML(monster.title)}</p></div></div><div class="result-abilities">${monster.abilities.map(ability => `<span>${escapeHTML(ability)}</span>`).join('')}</div><p class="winner-description">${escapeHTML(monster.description)}</p><div class="rank-label"><span>匹配排名</span><span>相对类别得分</span></div><div class="ranking-list">${result.ranking.map((row, index) => `<div class="rank-row"${index >= 5 ? ' hidden' : ''}><span>${escapeHTML(row.monster.name)}</span><div class="rank-track"><span style="width:${(row.score * 100).toFixed(3)}%"></span></div><span>${(row.score * 100).toFixed(1)}%</span></div>`).join('')}</div>${result.ranking.length > 5 ? `<button class="text-button ranking-toggle" aria-expanded="false">查看全部 ${result.ranking.length} 类 ↓</button>` : ''}<div class="result-actions"><button class="secondary" id="save-card">↓ 保存身份卡</button></div>`;
   const toggle = $('.ranking-toggle');
   if (toggle) toggle.onclick = () => {
     const expand = toggle.getAttribute('aria-expanded') !== 'true'; toggle.setAttribute('aria-expanded', String(expand));
@@ -86,7 +86,6 @@ function renderResult(result) {
     toggle.textContent = expand ? '收起排名 ↑' : `查看全部 ${result.ranking.length} 类 ↓`;
   };
   $('#save-card').onclick = saveCard;
-  $('#try-again').onclick = () => { resetPhoto(); dropzone.focus(); };
 }
 
 async function classify() {
