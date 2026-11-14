@@ -1,5 +1,5 @@
 import { BrowserClassifier } from './inference.js';
-import { identityText, renderIdentityCard } from './identity-card.js';
+import { renderIdentityCard } from './identity-card.js';
 
 const $ = selector => document.querySelector(selector);
 const escapeHTML = value => String(value).replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char]));
@@ -78,14 +78,14 @@ function renderResult(result) {
   currentResult = result;
   const monster = result.winner;
   $('#result-status').textContent = result.mode === 'demo' ? '示例' : '匹配完成';
-  $('#result-content').innerHTML = `${result.mode === 'demo' ? '<p class="demo-note">预设示例，与上传照片无关。</p>' : ''}<div class="winner-header"><div class="winner-portrait"><img src="./portraits/${monster.id}.jpg" alt="${escapeHTML(monster.name)}"></div><div class="winner-intro"><span>你的怪兽身份</span><h3>你是${escapeHTML(monster.name)}</h3><p>${escapeHTML(monster.title)}</p></div></div><div class="result-abilities">${monster.abilities.map(ability => `<span>${escapeHTML(ability)}</span>`).join('')}</div><p class="winner-description">${escapeHTML(monster.description)}</p><div class="rank-label"><span>匹配排名</span><span>相对类别得分</span></div><div class="ranking-list">${result.ranking.map((row, index) => `<div class="rank-row"${index >= 5 ? ' hidden' : ''}><span>${escapeHTML(row.monster.name)}</span><div class="rank-track"><span style="width:${(row.score * 100).toFixed(3)}%"></span></div><span>${(row.score * 100).toFixed(1)}%</span></div>`).join('')}</div>${result.ranking.length > 5 ? `<button class="text-button ranking-toggle" aria-expanded="false">查看全部 ${result.ranking.length} 类 ↓</button>` : ''}<div class="result-actions"><button class="secondary" id="save-card">↓ 保存身份卡</button><button class="secondary" id="copy-result">复制结果</button><button class="text-button" id="try-again">再测一次 ↗</button></div>`;
+  $('#result-content').innerHTML = `${result.mode === 'demo' ? '<p class="demo-note">预设示例，与上传照片无关。</p>' : ''}<div class="winner-header"><div class="winner-portrait"><img src="./portraits/${monster.id}.jpg" alt="${escapeHTML(monster.name)}"></div><div class="winner-intro"><span>你的怪兽身份</span><h3>你是${escapeHTML(monster.name)}</h3><p>${escapeHTML(monster.title)}</p></div></div><div class="result-abilities">${monster.abilities.map(ability => `<span>${escapeHTML(ability)}</span>`).join('')}</div><p class="winner-description">${escapeHTML(monster.description)}</p><div class="rank-label"><span>匹配排名</span><span>相对类别得分</span></div><div class="ranking-list">${result.ranking.map((row, index) => `<div class="rank-row"${index >= 5 ? ' hidden' : ''}><span>${escapeHTML(row.monster.name)}</span><div class="rank-track"><span style="width:${(row.score * 100).toFixed(3)}%"></span></div><span>${(row.score * 100).toFixed(1)}%</span></div>`).join('')}</div>${result.ranking.length > 5 ? `<button class="text-button ranking-toggle" aria-expanded="false">查看全部 ${result.ranking.length} 类 ↓</button>` : ''}<div class="result-actions"><button class="secondary" id="save-card">↓ 保存身份卡</button><button class="text-button" id="try-again">再测一次 ↗</button></div>`;
   const toggle = $('.ranking-toggle');
   if (toggle) toggle.onclick = () => {
     const expand = toggle.getAttribute('aria-expanded') !== 'true'; toggle.setAttribute('aria-expanded', String(expand));
     [...document.querySelectorAll('.rank-row')].slice(5).forEach(row => row.hidden = !expand);
     toggle.textContent = expand ? '收起排名 ↑' : `查看全部 ${result.ranking.length} 类 ↓`;
   };
-  $('#save-card').onclick = saveCard; $('#copy-result').onclick = copyResult;
+  $('#save-card').onclick = saveCard;
   $('#try-again').onclick = () => { resetPhoto(); dropzone.focus(); };
 }
 
@@ -109,16 +109,6 @@ function demo() {
   if (innerWidth < 701) $('#result-panel').scrollIntoView({ behavior: 'smooth' });
 }
 
-async function copyResult() {
-  if (!currentResult) return;
-  const text = identityText(currentResult);
-  try { await navigator.clipboard.writeText(text); toast('结果已复制'); }
-  catch {
-    openDialog(`<h2 class="dialog-title">复制结果</h2><p class="dialog-copy">浏览器未允许自动复制，请选择下方文字后复制。</p><textarea class="manual-copy" aria-label="手动复制结果" readonly>${escapeHTML(text)}</textarea>`);
-    $('.manual-copy').focus(); $('.manual-copy').select();
-  }
-}
-
 async function saveCard() {
   if (!currentResult) return;
   const result = currentResult, button = $('#save-card'); button.disabled = true; button.textContent = '正在生成…';
@@ -133,7 +123,7 @@ async function saveCard() {
 }
 
 $('#about-button').onclick = () => {
-  openDialog(`<h2 class="dialog-title">隐私与数据安全</h2><p class="dialog-copy">照片和匹配结果仅在你的浏览器中处理，本站不会上传、保存或用于模型训练。</p><p class="dialog-copy">只有你主动保存身份卡或复制结果，内容才会写入本机文件或剪贴板。</p><a class="dialog-source" href="https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection" target="_blank" rel="noopener noreferrer">托管方 GitHub 会为安全目的记录访问 IP ↗</a>`);
+  openDialog(`<h2 class="dialog-title">隐私与数据安全</h2><p class="dialog-copy">照片和匹配结果仅在你的浏览器中处理，本站不会上传、保存或用于模型训练。</p><p class="dialog-copy">只有你主动保存身份卡时，才会生成文件并下载到本机。</p><a class="dialog-source" href="https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection" target="_blank" rel="noopener noreferrer">托管方 GitHub 会为安全目的记录访问 IP ↗</a>`);
 };
 $('#close-dialog').onclick = () => $('#info-dialog').close();
 $('#info-dialog').addEventListener('click', event => {

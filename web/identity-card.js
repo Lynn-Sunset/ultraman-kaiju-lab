@@ -1,9 +1,3 @@
-export function identityText(result) {
-  const monster = result.winner;
-  const score = (result.ranking[0].score * 100).toFixed(1);
-  return `${result.mode === 'demo' ? '【结果示例】\n' : ''}你是${monster.name}！\n${monster.title} · 类别得分 ${score}%\n能力：${monster.abilities.join('、')}\n${monster.description}\n\n仅供娱乐，不代表真实身份、性格或能力。\n怪兽研究所 · KAIJU LAB`;
-}
-
 export async function renderIdentityCard(result) {
   const monster = result.winner;
   const image = new Image();
