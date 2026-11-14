@@ -22,6 +22,14 @@ const keys = new Set(monsters.map(monster => monster.id));
 if (keys.size !== 30 || model.classes.length !== keys.size || model.classes.some(key => !keys.has(key))) throw new Error('Class catalog mismatch.');
 const bytes = await readFile(path.join(dist, model.modelFile));
 if (createHash('sha256').update(bytes).digest('hex') !== model.sha256) throw new Error('Model checksum mismatch. Run export_browser.py.');
+const mobileGraph = JSON.parse(await readFile(path.join(web, 'data/mobile-graph.json'), 'utf8'));
+if (mobileGraph.sha256 !== model.sha256) throw Error('Run scripts/export-mobile.py for the new model.');
+model.mobileParts = [];
+for (let offset = 0; offset < bytes.length; offset += 512 * 1024) {
+  const part = `models/${model.sha256.slice(0,12)}-${model.mobileParts.length}.bin`;
+  await writeFile(path.join(dist, part), bytes.subarray(offset, offset + 512 * 1024));
+  model.mobileParts.push(part);
+}
 model.compressedModelFile = `${model.modelFile}.gz`;
 await writeFile(path.join(dist, model.compressedModelFile), gzipSync(bytes, { level: 9 }));
 await writeFile(path.join(dist, 'data', 'model.json'), JSON.stringify(model));

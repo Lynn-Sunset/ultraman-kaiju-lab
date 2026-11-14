@@ -1,4 +1,4 @@
-import { BrowserClassifier } from './inference.js';
+import { BrowserClassifier } from './inference.js?mobile=2';
 import { renderIdentityCard } from './identity-card.js';
 import { applyTranslations, detectLocale, getLocale, localizeMonster, locales, setLocale, t } from './i18n.js';
 

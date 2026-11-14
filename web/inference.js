@@ -2,11 +2,18 @@ export class BrowserClassifier {
   constructor() {
     this.pending = new Map();
     this.nextId = 0;
-    this.worker = new Worker(new URL('./inference-worker.js', import.meta.url), { type: 'module' });
+  }
+  startWorker(mobile) {
+    this.worker = new Worker(new URL(mobile ? './mobile-worker.js' : './inference-worker.js', import.meta.url), { type: 'module' });
     this.worker.onmessage = ({ data }) => {
       const request = this.pending.get(data.id);
       if (!request) return;
-      if (data.progress) { this.onProgress?.(data.progress); return; }
+      if (data.progress) {
+        clearTimeout(request.timeout);
+        request.timeout = setTimeout(request.expire, request.duration);
+        this.onProgress?.(data.progress);
+        return;
+      }
       this.pending.delete(data.id);
       clearTimeout(request.timeout);
       data.error ? request.reject(new Error(data.error)) : request.resolve(data);
@@ -17,13 +24,28 @@ export class BrowserClassifier {
   request(type, fields, transfers = []) {
     return new Promise((resolve, reject) => {
       const id = ++this.nextId;
-      const timeout = setTimeout(() => { this.pending.delete(id); reject(new Error(type === 'load' ? 'errorDownloadTimeout' : 'errorPredictTimeout')); }, type === 'load' ? 180000 : 60000);
-      this.pending.set(id, { resolve, reject, timeout });
+      const duration = type === 'load' ? 180000 : 60000;
+      const expire = () => { this.pending.delete(id); reject(new Error(type === 'load' ? 'errorDownloadTimeout' : 'errorPredictTimeout')); };
+      const timeout = setTimeout(expire, duration);
+      this.pending.set(id, { resolve, reject, timeout, expire, duration });
       this.worker.postMessage({ id, type, ...fields }, transfers);
     });
   }
 
-  async load(config, onProgress) { this.config = config; this.onProgress = onProgress; await this.request('load', { config }); }
+  async load(config, onProgress) {
+    this.config = config;
+    this.onProgress = onProgress;
+    const mobile = navigator.maxTouchPoints > 0 || /Android|iPhone|iPad/i.test(navigator.userAgent);
+    if (!mobile) {
+      try {
+        this.startWorker(false);
+        await this.request('load', {config});
+        return;
+      } catch { this.worker?.terminate(); }
+    }
+    this.startWorker(true);
+    await this.request('load', {config});
+  }
 
   async predict(file, monsters) {
     const input = await preprocess(file, this.config.preprocessing);
@@ -42,7 +64,7 @@ export class BrowserClassifier {
     this.pending.clear();
   }
 
-  dispose() { this.rejectAll(new Error('errorReload')); this.worker.terminate(); }
+  dispose() { this.rejectAll(new Error('errorReload')); this.worker?.terminate(); }
 }
 
 async function preprocess(file, config) {
