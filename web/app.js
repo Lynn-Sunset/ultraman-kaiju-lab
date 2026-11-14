@@ -133,8 +133,7 @@ async function saveCard() {
 }
 
 $('#about-button').onclick = () => {
-  const accuracy = config?.metrics?.validation_accuracy;
-  openDialog(`<h2 class="dialog-title">关于这个小实验</h2><p class="dialog-copy">用你的照片，在 ${monsters.length || 30} 类奥特怪兽中寻找一位搭档。匹配和照片处理都在你的浏览器中完成。</p><div class="about-state">154 张审核样本 · MobileNetV3<br>小样本验证准确率 ${typeof accuracy === 'number' ? (accuracy * 100).toFixed(0) + '%' : '—'}（不是人脸匹配准确率）</div><p class="dialog-copy">真人照片不属于模型的怪兽训练分布。结果和分数仅供娱乐，不代表真实身份、性格或能力。</p><a class="dialog-source" href="https://tsuburaya-prod.com/encyclopedialist" target="_blank" rel="noopener noreferrer">圆谷官方怪兽图鉴 ↗</a>`);
+  openDialog(`<h2 class="dialog-title">隐私与数据安全</h2><p class="dialog-copy">照片和匹配结果仅在你的浏览器中处理，本站不会上传、保存或用于模型训练。</p><p class="dialog-copy">只有你主动保存身份卡或复制结果，内容才会写入本机文件或剪贴板。</p><a class="dialog-source" href="https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection" target="_blank" rel="noopener noreferrer">托管方 GitHub 会为安全目的记录访问 IP ↗</a>`);
 };
 $('#close-dialog').onclick = () => $('#info-dialog').close();
 $('#info-dialog').addEventListener('click', event => {
