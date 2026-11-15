@@ -28,6 +28,8 @@ button, a, input { touch-action: manipulation; }
 .brand small { display: block; color: var(--red); font-size: 9px; letter-spacing: 3px; font-weight: 500; margin-top: 5px; }
 .header nav { display: flex; align-items: center; gap: 31px; font-size: 12px; }
 .header nav button { border: 0; background: none; padding: 0; }
+.repo-link { padding: 5px 10px; border: 1px solid var(--line); border-radius: 5px; white-space: nowrap; }
+.repo-link:hover { border-color: var(--red); }
 .header nav a:hover, .header nav button:hover { color: var(--red); }
 .hero { display: grid; grid-template-columns: 1.15fr 1fr; align-items: center; gap: 5%; padding: 40px 6% 37px; }
 .eyebrow { font-size: 11px; color: var(--red); border: 1px solid #f0c0c2; background: #fff5f3; border-radius: 30px; display: inline-block; padding: 5px 12px; }
