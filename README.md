@@ -1,5 +1,7 @@
 # 怪兽研究所 · KAIJU LAB
 
+**简体中文** · [日本語](docs/README.ja.md) · [English](docs/README.en.md) · [Español](docs/README.es.md) · [Русский](docs/README.ru.md)
+
 你是哪一只奥特怪兽？选一张照片，在 30 类怪兽中匹配你的专属身份，解锁能力介绍。
 
 **[点击体验 →](https://lynn-sunset.github.io/ultraman-kaiju-lab/)** 无需安装，手机和电脑都能使用。
