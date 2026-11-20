@@ -20,7 +20,7 @@ def main():
                 raise ValueError(f"Review image mismatch: {row['sample_id']}")
             if decision["status"] not in {"accepted", "rejected"}:
                 raise ValueError("Invalid review status")
-            row.update(review_status=decision["status"], review_note=decision["note"], reviewed_by="Codex visual review", reviewed_at="2026-11-14")
+            row.update(review_status=decision["status"], review_note=decision["note"], reviewed_by="Codex visual review", reviewed_at=decision.get("reviewed_at", "2026-11-14"))
     manifest.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
     with (ROOT / "data" / "labels.csv").open("w", encoding="utf-8-sig", newline="") as file:
         fields = ["sample_id", "path", "class_id", "label", "review_status", "review_note", "source_group", "source_url", "image_url", "derived_from", "bbox", "rights"]

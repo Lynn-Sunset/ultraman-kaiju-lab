@@ -16,7 +16,8 @@
     "sample_id": "K001",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "baltan",
@@ -149,7 +150,8 @@
     "sample_id": "K008",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "baltan",
@@ -168,7 +170,8 @@
     "sample_id": "K009",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "baltan",
@@ -320,7 +323,8 @@
     "sample_id": "K017",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "baltan",
@@ -339,7 +343,8 @@
     "sample_id": "K018",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "eleking",
@@ -358,7 +363,8 @@
     "sample_id": "K019",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "eleking",
@@ -377,7 +383,8 @@
     "sample_id": "K020",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "eleking",
@@ -586,7 +593,8 @@
     "sample_id": "K031",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "gomora",
@@ -605,7 +613,8 @@
     "sample_id": "K032",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gomora",
@@ -871,7 +880,8 @@
     "sample_id": "K046",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gomora",
@@ -890,7 +900,8 @@
     "sample_id": "K047",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gomora",
@@ -947,7 +958,8 @@
     "sample_id": "K050",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "kanegon",
@@ -966,7 +978,8 @@
     "sample_id": "K051",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "kanegon",
@@ -985,7 +998,8 @@
     "sample_id": "K052",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "kanegon",
@@ -1004,7 +1018,8 @@
     "sample_id": "K053",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "kanegon",
@@ -1023,7 +1038,8 @@
     "sample_id": "K054",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "kanegon",
@@ -1080,7 +1096,8 @@
     "sample_id": "K057",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "redking",
@@ -1099,7 +1116,8 @@
     "sample_id": "K058",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "redking",
@@ -1118,7 +1136,8 @@
     "sample_id": "K059",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "redking",
@@ -1289,7 +1308,8 @@
     "sample_id": "K068",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "redking",
@@ -1308,7 +1328,8 @@
     "sample_id": "K069",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "redking",
@@ -1327,7 +1348,8 @@
     "sample_id": "K070",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "redking",
@@ -1384,7 +1406,8 @@
     "sample_id": "K073",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "zetton",
@@ -1403,7 +1426,8 @@
     "sample_id": "K074",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "zetton",
@@ -1650,7 +1674,8 @@
     "sample_id": "K087",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "zetton",
@@ -1669,7 +1694,8 @@
     "sample_id": "K088",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "zetton",
@@ -1802,7 +1828,8 @@
     "sample_id": "K095",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "gomora",
@@ -1821,7 +1848,8 @@
     "sample_id": "K096",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gomora",
@@ -1840,7 +1868,8 @@
     "sample_id": "K097",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gomora",
@@ -1859,7 +1888,8 @@
     "sample_id": "K098",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gomora",
@@ -1878,7 +1908,8 @@
     "sample_id": "K099",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gomora",
@@ -1897,7 +1928,8 @@
     "sample_id": "K100",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gomora",
@@ -1916,7 +1948,8 @@
     "sample_id": "K101",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gomora",
@@ -1973,7 +2006,8 @@
     "sample_id": "K104",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gomora",
@@ -2049,7 +2083,8 @@
     "sample_id": "K108",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "baltan",
@@ -2068,7 +2103,8 @@
     "sample_id": "K109",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "baltan",
@@ -2087,7 +2123,8 @@
     "sample_id": "K110",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "baltan",
@@ -2106,7 +2143,8 @@
     "sample_id": "K111",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "baltan",
@@ -2239,7 +2277,8 @@
     "sample_id": "K118",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "zetton",
@@ -2258,7 +2297,8 @@
     "sample_id": "K119",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "zetton",
@@ -2277,7 +2317,8 @@
     "sample_id": "K120",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "zetton",
@@ -2296,7 +2337,8 @@
     "sample_id": "K121",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "zetton",
@@ -2315,7 +2357,8 @@
     "sample_id": "K122",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "zetton",
@@ -2467,7 +2510,8 @@
     "sample_id": "K130",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "eleking",
@@ -2486,7 +2530,8 @@
     "sample_id": "K131",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "eleking",
@@ -2505,7 +2550,8 @@
     "sample_id": "K132",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "eleking",
@@ -2524,7 +2570,8 @@
     "sample_id": "K133",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "eleking",
@@ -2543,7 +2590,8 @@
     "sample_id": "K134",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "eleking",
@@ -2581,7 +2629,8 @@
     "sample_id": "K136",
     "review_note": "Visually reviewed: one identifiable target character; consistent with official character reference.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "eleking",
@@ -2695,7 +2744,8 @@
     "sample_id": "K142",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "pigmon",
@@ -2714,7 +2764,8 @@
     "sample_id": "K143",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "pigmon",
@@ -2752,7 +2803,8 @@
     "sample_id": "K145",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "pigmon",
@@ -2809,7 +2861,8 @@
     "sample_id": "K148",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "kingjoe",
@@ -2828,7 +2881,8 @@
     "sample_id": "K149",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "kingjoe",
@@ -2847,7 +2901,8 @@
     "sample_id": "K150",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "kingjoe",
@@ -2866,7 +2921,8 @@
     "sample_id": "K151",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "kingjoe",
@@ -2885,7 +2941,8 @@
     "sample_id": "K152",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "kingjoe",
@@ -3075,7 +3132,8 @@
     "sample_id": "K162",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "dada",
@@ -3113,7 +3171,8 @@
     "sample_id": "K164",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "dada",
@@ -3170,7 +3229,8 @@
     "sample_id": "K167",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "dada",
@@ -3189,7 +3249,8 @@
     "sample_id": "K168",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "neronga",
@@ -3208,7 +3269,8 @@
     "sample_id": "K169",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "neronga",
@@ -3227,7 +3289,8 @@
     "sample_id": "K170",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "neronga",
@@ -3265,7 +3328,8 @@
     "sample_id": "K172",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "bemular",
@@ -3284,7 +3348,8 @@
     "sample_id": "K173",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "bemular",
@@ -3303,7 +3368,8 @@
     "sample_id": "K174",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "bemular",
@@ -3379,7 +3445,8 @@
     "sample_id": "K178",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "gubila",
@@ -3398,7 +3465,8 @@
     "sample_id": "K179",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gubila",
@@ -3417,7 +3485,8 @@
     "sample_id": "K180",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gubila",
@@ -3493,7 +3562,8 @@
     "sample_id": "K184",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "antlar",
@@ -3512,7 +3582,8 @@
     "sample_id": "K185",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "antlar",
@@ -3588,7 +3659,8 @@
     "sample_id": "K189",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "jamila",
@@ -3607,7 +3679,8 @@
     "sample_id": "K190",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "jamila",
@@ -3645,7 +3718,8 @@
     "sample_id": "K192",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gudon",
@@ -3664,7 +3738,8 @@
     "sample_id": "K193",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gudon",
@@ -3683,7 +3758,8 @@
     "sample_id": "K194",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "gudon",
@@ -3702,7 +3778,8 @@
     "sample_id": "K195",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "twintail",
@@ -3721,7 +3798,8 @@
     "sample_id": "K196",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "twintail",
@@ -3740,7 +3818,8 @@
     "sample_id": "K197",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "twintail",
@@ -3759,7 +3838,8 @@
     "sample_id": "K198",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "bemstar",
@@ -3778,7 +3858,8 @@
     "sample_id": "K199",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "bemstar",
@@ -3797,7 +3878,8 @@
     "sample_id": "K200",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "bemstar",
@@ -3816,7 +3898,8 @@
     "sample_id": "K201",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "blackking",
@@ -3835,7 +3918,8 @@
     "sample_id": "K202",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "blackking",
@@ -3854,7 +3938,8 @@
     "sample_id": "K203",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "blackking",
@@ -3873,7 +3958,8 @@
     "sample_id": "K204",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "birdon",
@@ -3892,7 +3978,8 @@
     "sample_id": "K205",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "birdon",
@@ -3911,7 +3998,8 @@
     "sample_id": "K206",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "birdon",
@@ -3930,7 +4018,8 @@
     "sample_id": "K207",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "tyrant",
@@ -3968,7 +4057,8 @@
     "sample_id": "K209",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "tyrant",
@@ -4006,7 +4096,8 @@
     "sample_id": "K211",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "tyrant",
@@ -4025,7 +4116,8 @@
     "sample_id": "K212",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "tyrant",
@@ -4044,7 +4136,8 @@
     "sample_id": "K213",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "tyrant",
@@ -4063,7 +4156,8 @@
     "sample_id": "K214",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "tyrant",
@@ -4082,7 +4176,8 @@
     "sample_id": "K215",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "acekiller",
@@ -4120,7 +4215,8 @@
     "sample_id": "K217",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "acekiller",
@@ -4139,7 +4235,8 @@
     "sample_id": "K218",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "vakishim",
@@ -4158,7 +4255,8 @@
     "sample_id": "K219",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "vakishim",
@@ -4177,7 +4275,8 @@
     "sample_id": "K220",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "vakishim",
@@ -4196,7 +4295,8 @@
     "sample_id": "K221",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "golza",
@@ -4215,7 +4315,8 @@
     "sample_id": "K222",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "golza",
@@ -4234,7 +4335,8 @@
     "sample_id": "K223",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "golza",
@@ -4348,7 +4450,8 @@
     "sample_id": "K229",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "melba",
@@ -4367,7 +4470,8 @@
     "sample_id": "K230",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "melba",
@@ -4386,7 +4490,8 @@
     "sample_id": "K231",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gazort",
@@ -4405,7 +4510,8 @@
     "sample_id": "K232",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "gazort",
@@ -4443,7 +4549,8 @@
     "sample_id": "K234",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "silvergon",
@@ -4462,7 +4569,8 @@
     "sample_id": "K235",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "silvergon",
@@ -4481,7 +4589,8 @@
     "sample_id": "K236",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "silvergon",
@@ -4500,7 +4609,8 @@
     "sample_id": "K237",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "ganq",
@@ -4538,7 +4648,8 @@
     "sample_id": "K239",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "galactron",
@@ -4557,7 +4668,8 @@
     "sample_id": "K240",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "galactron",
@@ -4576,7 +4688,8 @@
     "sample_id": "K241",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "galactron",
@@ -4595,7 +4708,8 @@
     "sample_id": "K242",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "galactron",
@@ -4690,7 +4804,8 @@
     "sample_id": "K247",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "fiveking",
@@ -4709,7 +4824,8 @@
     "sample_id": "K248",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "fiveking",
@@ -4728,7 +4844,8 @@
     "sample_id": "K249",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "fiveking",
@@ -4747,7 +4864,8 @@
     "sample_id": "K250",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "fiveking",
@@ -4766,7 +4884,8 @@
     "sample_id": "K251",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "fiveking",
@@ -4785,7 +4904,8 @@
     "sample_id": "K252",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "metron",
@@ -4804,7 +4924,8 @@
     "sample_id": "K253",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "metron",
@@ -4823,7 +4944,8 @@
     "sample_id": "K254",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "metron",
@@ -4842,7 +4964,8 @@
     "sample_id": "K255",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "metron",
@@ -4861,7 +4984,8 @@
     "sample_id": "K256",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "metron",
@@ -4880,7 +5004,8 @@
     "sample_id": "K257",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "metron",
@@ -4899,7 +5024,8 @@
     "sample_id": "K258",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "metron",
@@ -5013,7 +5139,8 @@
     "sample_id": "K264",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "twintail",
@@ -5032,7 +5159,8 @@
     "sample_id": "K265",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "twintail",
@@ -5051,7 +5179,8 @@
     "sample_id": "K266",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "twintail",
@@ -5070,7 +5199,8 @@
     "sample_id": "K267",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "twintail",
@@ -5089,7 +5219,8 @@
     "sample_id": "K268",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "twintail",
@@ -5108,7 +5239,8 @@
     "sample_id": "K269",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "twintail",
@@ -5146,7 +5278,8 @@
     "sample_id": "K271",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "twintail",
@@ -5184,7 +5317,8 @@
     "sample_id": "K273",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gudon",
@@ -5203,7 +5337,8 @@
     "sample_id": "K274",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gudon",
@@ -5222,7 +5357,8 @@
     "sample_id": "K275",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gudon",
@@ -5241,7 +5377,8 @@
     "sample_id": "K276",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gudon",
@@ -5260,7 +5397,8 @@
     "sample_id": "K277",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "gudon",
@@ -5336,7 +5474,8 @@
     "sample_id": "K281",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "metron",
@@ -5355,7 +5494,8 @@
     "sample_id": "K282",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "metron",
@@ -5374,7 +5514,8 @@
     "sample_id": "K283",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "metron",
@@ -5393,7 +5534,8 @@
     "sample_id": "K284",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "metron",
@@ -5412,7 +5554,8 @@
     "sample_id": "K285",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "metron",
@@ -5431,7 +5574,8 @@
     "sample_id": "K286",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "dada",
@@ -5450,7 +5594,8 @@
     "sample_id": "K287",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "dada",
@@ -5469,7 +5614,8 @@
     "sample_id": "K288",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "dada",
@@ -5488,7 +5634,8 @@
     "sample_id": "K289",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "dada",
@@ -5507,7 +5654,8 @@
     "sample_id": "K290",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "dada",
@@ -5526,7 +5674,8 @@
     "sample_id": "K291",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "dada",
@@ -5545,7 +5694,8 @@
     "sample_id": "K292",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "dada",
@@ -5564,7 +5714,8 @@
     "sample_id": "K293",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "dada",
@@ -5583,7 +5734,8 @@
     "sample_id": "K294",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "training"
   },
   {
     "class_id": "ganq",
@@ -5602,7 +5754,8 @@
     "sample_id": "K295",
     "review_note": "Visually checked: one identifiable target monster, matching official reference; pose or facial detail suitable for this class.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
   },
   {
     "class_id": "acekiller",
@@ -5628,6 +5781,487 @@
     ],
     "review_note": "Reviewed target bounding-box crop from K216; background character faces excluded. Shares the original source group to prevent split leakage.",
     "reviewed_by": "Codex visual review",
-    "reviewed_at": "2026-11-14"
+    "reviewed_at": "2026-11-14",
+    "split": "validation"
+  },
+  {
+    "class_id": "gomora",
+    "label": "哥莫拉",
+    "image_url": "https://www.m-78.jp/rb/wp-content/uploads/2018/12/ゴモラ.jpg",
+    "source_url": "https://www.m-78.jp/rb/kaiju.html",
+    "source_title": "古代怪獣ゴモラ",
+    "source_group": "rb:gomora",
+    "path": "data/images/gomora/fb6d421c187a2931.jpg",
+    "pixel_sha256": "fb6d421c187a2931e17e9b9e4d2efe336a45c0dabae94fb4a2abd19db2c6682b",
+    "width": 640,
+    "height": 480,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:05:33.871748+00:00",
+    "sample_id": "K297",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "kingjoe",
+    "label": "金古桥",
+    "image_url": "https://www.m-78.jp/rb/wp-content/uploads/2018/12/キングジョー.jpg",
+    "source_url": "https://www.m-78.jp/rb/kaiju.html",
+    "source_title": "宇宙ロボット　キングジョー",
+    "source_group": "rb:kingjoe",
+    "path": "data/images/kingjoe/1a958af3bbd6ad19.jpg",
+    "pixel_sha256": "1a958af3bbd6ad19dc1517b468f7cfa62946579de62a782de9bca9e3e53f11b4",
+    "width": 640,
+    "height": 480,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:05:33.927649+00:00",
+    "sample_id": "K298",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "pigmon",
+    "label": "皮古蒙",
+    "image_url": "https://www.m-78.jp/rb/wp-content/uploads/2018/12/ピグモン.jpg",
+    "source_url": "https://www.m-78.jp/rb/kaiju.html",
+    "source_title": "友好珍獣ピグモン",
+    "source_group": "rb:pigmon",
+    "path": "data/images/pigmon/f2768488eaec7209.jpg",
+    "pixel_sha256": "f2768488eaec72094c76f4bea6e222b21d9fc6833f55fc2d44cc285a04682168",
+    "width": 640,
+    "height": 480,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:05:33.867162+00:00",
+    "sample_id": "K299",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "dada",
+    "label": "达达",
+    "image_url": "https://www.m-78.jp/rb/wp-content/uploads/2018/12/ダダ-3.jpg",
+    "source_url": "https://www.m-78.jp/rb/kaiju.html",
+    "source_title": "三面怪人ダダ",
+    "source_group": "rb:dada",
+    "path": "data/images/dada/76f4430af24dbb5c.jpg",
+    "pixel_sha256": "76f4430af24dbb5cf244f841812246787ea982b24a19e5c183b29be5115aea5c",
+    "width": 640,
+    "height": 480,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:05:36.538652+00:00",
+    "sample_id": "K300",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "neronga",
+    "label": "内隆嘎",
+    "image_url": "https://www.m-78.jp/rb/wp-content/uploads/2018/10/ネロンガ横.jpg",
+    "source_url": "https://www.m-78.jp/rb/kaiju.html",
+    "source_title": "透明怪獣ネロンガ",
+    "source_group": "rb:neronga",
+    "path": "data/images/neronga/d26dbee4468f8849.jpg",
+    "pixel_sha256": "d26dbee4468f88493ba017db01f2415edb77d1e58d5b8244078af250e3227b52",
+    "width": 640,
+    "height": 480,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:05:36.548049+00:00",
+    "sample_id": "K301",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "redking",
+    "label": "雷德王",
+    "image_url": "https://www.m-78.jp/rb/wp-content/uploads/2018/05/レッドキング.jpg",
+    "source_url": "https://www.m-78.jp/rb/kaiju.html",
+    "source_title": "どくろ怪獣レッドキング",
+    "source_group": "rb:redking",
+    "path": "data/images/redking/5d0067c80a4e2154.jpg",
+    "pixel_sha256": "5d0067c80a4e2154956e541cb7fdc45fc0e8a1a514cd7271198c9910579c6280",
+    "width": 640,
+    "height": 480,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:05:36.986240+00:00",
+    "sample_id": "K302",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "blackking",
+    "label": "布莱克王",
+    "image_url": "https://www.m-78.jp/rb/wp-content/uploads/2018/05/ブラックキング.jpg",
+    "source_url": "https://www.m-78.jp/rb/kaiju.html",
+    "source_title": "用心棒怪獣ブラックキング",
+    "source_group": "rb:blackking",
+    "path": "data/images/blackking/742c77c938da4825.jpg",
+    "pixel_sha256": "742c77c938da482540b20e726db7c9495d1181a07b5370cd8a036be985e77106",
+    "width": 640,
+    "height": 480,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:05:39.043254+00:00",
+    "sample_id": "K303",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "blackking",
+    "label": "布莱克王",
+    "image_url": "https://www.m-78.jp/orb/wp-content/uploads/2016/08/ブラックキング.jpg",
+    "source_url": "https://www.m-78.jp/orb/kaiju/",
+    "source_title": "ブラックキング",
+    "source_group": "orb:blackking",
+    "path": "data/images/blackking/d6e3facf9463ae26.jpg",
+    "pixel_sha256": "d6e3facf9463ae26633d5dee09ab5bba470c1194e2115450b3b3591fb485630e",
+    "width": 640,
+    "height": 426,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:05:39.723924+00:00",
+    "sample_id": "K304",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "gubila",
+    "label": "古维拉",
+    "image_url": "https://www.m-78.jp/orb/wp-content/uploads/2016/08/グビラ.jpg",
+    "source_url": "https://www.m-78.jp/orb/kaiju/",
+    "source_title": "グビラ",
+    "source_group": "orb:gubila",
+    "path": "data/images/gubila/e16ab5eaf12295d7.jpg",
+    "pixel_sha256": "e16ab5eaf12295d73602c6c95db0e5802a57dca0ce59167b3e1975d834aff96f",
+    "width": 640,
+    "height": 426,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:05:40.058090+00:00",
+    "sample_id": "K305",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "neronga",
+    "label": "内隆嘎",
+    "image_url": "https://m-78.jp/z/wp-content/uploads/2020/06/neronga.png",
+    "source_url": "https://www.m-78.jp/z/kaiju/",
+    "source_title": "透明怪獣　ネロンガ",
+    "source_group": "z:neronga",
+    "path": "data/images/neronga/4dffd2e2921de0ea.jpg",
+    "pixel_sha256": "4dffd2e2921de0eae2fca2333ad049520fcad100a5b79c7beb1c2f67183b60c1",
+    "width": 640,
+    "height": 480,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:06:37.374238+00:00",
+    "sample_id": "K306",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "gomora",
+    "label": "哥莫拉",
+    "image_url": "https://m-78.jp/z/wp-content/uploads/2020/07/ゴモラ.png",
+    "source_url": "https://www.m-78.jp/z/kaiju/",
+    "source_title": "古代怪獣　ゴモラ",
+    "source_group": "z:gomora",
+    "path": "data/images/gomora/ed31e112f6d362c0.jpg",
+    "pixel_sha256": "ed31e112f6d362c09ded7c06599b204186c84fb640bc5d5060713ae475feae76",
+    "width": 640,
+    "height": 480,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:06:03.075362+00:00",
+    "sample_id": "K307",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "gomora",
+    "label": "哥莫拉",
+    "image_url": "https://m-78.jp/z/wp-content/uploads/2020/08/スカルゴモラ.png",
+    "source_url": "https://www.m-78.jp/z/kaiju/",
+    "source_title": "ベリアル融合獣　スカルゴモラ",
+    "source_group": "z:gomora",
+    "path": "data/images/gomora/019f7bd73da95e4d.jpg",
+    "pixel_sha256": "019f7bd73da95e4d6e2d5d044224f786fb1c1f0eb64040998f869aafe0b8c993",
+    "width": 640,
+    "height": 480,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:06:16.795523+00:00",
+    "sample_id": "K308",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "zetton",
+    "label": "杰顿",
+    "image_url": "https://m-78.jp/z/wp-content/uploads/2020/08/ペダニウムゼットン.png",
+    "source_url": "https://www.m-78.jp/z/kaiju/",
+    "source_title": "ベリアル融合獣　ペダニウムゼットン",
+    "source_group": "z:zetton",
+    "path": "data/images/zetton/ec152e097c72d7bc.jpg",
+    "pixel_sha256": "ec152e097c72d7bcd55462e3d016426d963a63ada36933fab7ddb53d30145a1f",
+    "width": 640,
+    "height": 480,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:06:05.639705+00:00",
+    "sample_id": "K309",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "fiveking",
+    "label": "五帝王",
+    "image_url": "https://m-78.jp/z/wp-content/uploads/2020/08/ファイブキング.png",
+    "source_url": "https://www.m-78.jp/z/kaiju/",
+    "source_title": "超合体怪獣　ファイブキング",
+    "source_group": "z:fiveking",
+    "path": "data/images/fiveking/0a7fbaeebe24f4ec.jpg",
+    "pixel_sha256": "0a7fbaeebe24f4ec34d4fe0d0224f87506d8c9a3ee7a5def958f83b398303b3a",
+    "width": 640,
+    "height": 480,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:06:43.339574+00:00",
+    "sample_id": "K310",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "kingjoe",
+    "label": "金古桥",
+    "image_url": "https://m-78.jp/z/wp-content/uploads/2020/08/キングジョー.png",
+    "source_url": "https://www.m-78.jp/z/kaiju/",
+    "source_title": "宇宙ロボット　キングジョー",
+    "source_group": "z:kingjoe",
+    "path": "data/images/kingjoe/54311fe30d94231f.jpg",
+    "pixel_sha256": "54311fe30d94231f351ab068a66887bd98ae175ff52cb7be6318df4a47529360",
+    "width": 640,
+    "height": 480,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:06:46.106004+00:00",
+    "sample_id": "K311",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "bemstar",
+    "label": "贝蒙斯坦",
+    "image_url": "https://m-78.jp/z/wp-content/uploads/2020/10/ベムスター.png",
+    "source_url": "https://www.m-78.jp/z/kaiju/",
+    "source_title": "宇宙大怪獣　ベムスター",
+    "source_group": "z:bemstar",
+    "path": "data/images/bemstar/8e1399859a807df7.jpg",
+    "pixel_sha256": "8e1399859a807df74e5517f75d67a5bd4e760b0f9419f281aee86ed99561e73a",
+    "width": 640,
+    "height": 480,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:07:23.345572+00:00",
+    "sample_id": "K312",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "blackking",
+    "label": "布莱克王",
+    "image_url": "https://www.m-78.jp/taiga/wp-content/uploads/2019/08/ブラックキング.png",
+    "source_url": "https://www.m-78.jp/taiga/kaiju/",
+    "source_title": "用心棒怪獣　ブラックキング",
+    "source_group": "taiga:blackking",
+    "path": "data/images/blackking/a97b8665434b4cd3.jpg",
+    "pixel_sha256": "a97b8665434b4cd390017a5a3d787b19522af89523cbf7bea2a3684fae0461e8",
+    "width": 640,
+    "height": 480,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:06:53.462514+00:00",
+    "sample_id": "K313",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "zetton",
+    "label": "杰顿",
+    "image_url": "https://www.m-78.jp/taiga/wp-content/uploads/2019/11/ゼットン.png",
+    "source_url": "https://www.m-78.jp/taiga/kaiju/",
+    "source_title": "宇宙恐竜　ゼットン",
+    "source_group": "taiga:zetton",
+    "path": "data/images/zetton/cb79878b6e0a77f9.jpg",
+    "pixel_sha256": "cb79878b6e0a77f9b3e28e0d7665a62d3f7c958686fb6d0a2edc3d5b9adc5917",
+    "width": 640,
+    "height": 480,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:07:06.636645+00:00",
+    "sample_id": "K314",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "bemular",
+    "label": "百慕拉",
+    "image_url": "https://www.m-78.jp/taiga/wp-content/uploads/2019/11/ベムラー.png",
+    "source_url": "https://www.m-78.jp/taiga/kaiju/",
+    "source_title": "宇宙怪獣　ベムラー",
+    "source_group": "taiga:bemular",
+    "path": "data/images/bemular/51e33191816540b5.jpg",
+    "pixel_sha256": "51e33191816540b5a5b651cb983b09b863c49235def068c9a1eec4f25f5c1c4f",
+    "width": 640,
+    "height": 480,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:07:10.974573+00:00",
+    "sample_id": "K315",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "gubila",
+    "label": "古维拉",
+    "image_url": "https://www.m-78.jp/geed/wp-content/uploads/2017/10/23_gubira.jpg",
+    "source_url": "https://www.m-78.jp/geed/kaiju/",
+    "source_title": "深海怪獣グビラ",
+    "source_group": "geed:gubila",
+    "path": "data/images/gubila/15d09439668a3886.jpg",
+    "pixel_sha256": "15d09439668a38863b2515f11438e79ded8fa2ee39b507e1ca9bfbbb9e021bb1",
+    "width": 800,
+    "height": 600,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:07:11.659239+00:00",
+    "sample_id": "K316",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "tyrant",
+    "label": "泰兰特",
+    "image_url": "https://www.m-78.jp/geed/wp-content/uploads/2017/08/8_tyrant.jpg",
+    "source_url": "https://www.m-78.jp/geed/kaiju/",
+    "source_title": "暴君怪獣タイラント",
+    "source_group": "geed:tyrant",
+    "path": "data/images/tyrant/679a0cf4e593c057.jpg",
+    "pixel_sha256": "679a0cf4e593c057f7f4baf52f14fd82c586d4c7aac9055cf8b026f277809fce",
+    "width": 1024,
+    "height": 768,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:07:14.487267+00:00",
+    "sample_id": "K317",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "galactron",
+    "label": "加拉特隆",
+    "image_url": "https://www.m-78.jp/geed/wp-content/uploads/2017/08/7_galactron.jpg",
+    "source_url": "https://www.m-78.jp/geed/kaiju/",
+    "source_title": "シビルジャッジメンター　ギャラクトロン",
+    "source_group": "geed:galactron",
+    "path": "data/images/galactron/71738a88d897e52b.jpg",
+    "pixel_sha256": "71738a88d897e52b4f44eb91faf87a01bad89a7260a0ef8ffb3786a56bcf5d3e",
+    "width": 1024,
+    "height": 768,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:07:24.620224+00:00",
+    "sample_id": "K318",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "eleking",
+    "label": "艾雷王",
+    "image_url": "https://www.m-78.jp/geed/wp-content/uploads/2017/07/4_eleking.jpg",
+    "source_url": "https://www.m-78.jp/geed/kaiju/",
+    "source_title": "宇宙怪獣　エレキング",
+    "source_group": "geed:eleking",
+    "path": "data/images/eleking/4275c2d912dcbfa2.jpg",
+    "pixel_sha256": "4275c2d912dcbfa20eb36e002da70331c2764d6105e9662a6da7b281186a35b4",
+    "width": 1024,
+    "height": 768,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:07:18.708679+00:00",
+    "sample_id": "K319",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
+  },
+  {
+    "class_id": "dada",
+    "label": "达达",
+    "image_url": "https://www.m-78.jp/geed/wp-content/uploads/2017/07/2_dada.jpg",
+    "source_url": "https://www.m-78.jp/geed/kaiju/",
+    "source_title": "三面怪人　ダダ",
+    "source_group": "geed:dada",
+    "path": "data/images/dada/c9befe4a885115fa.jpg",
+    "pixel_sha256": "c9befe4a885115fa2a2ba245e0f80f1d2ffd308575059cab6cf2a4b81a739210",
+    "width": 1024,
+    "height": 768,
+    "review_status": "accepted",
+    "rights": "Copyright belongs to original owner; no training/redistribution license verified",
+    "collected_at": "2026-11-20T02:07:17.987208+00:00",
+    "sample_id": "K320",
+    "review_note": "Visually checked the labeled character in the official series still.",
+    "reviewed_by": "Codex visual review",
+    "reviewed_at": "2026-11-20",
+    "split": "training"
   }
 ]

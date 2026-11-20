@@ -56,6 +56,14 @@ def split_samples(rows, seed=42):
         candidates = [key for key, samples in groups.items() if samples[0]["class_id"] == label]
         if len(candidates) < 2:
             raise ValueError(f"{label} 至少需要两个独立来源组，不能把同一商品的不同角度同时放进训练集和验证集。")
+        pinned = {groups[key][0].get("split") for key in candidates}
+        if pinned != {None}:
+            for key in candidates:
+                assignments = {row.get("split") for row in groups[key]}
+                if len(assignments) != 1 or not assignments <= {"training", "validation"}:
+                    raise ValueError(f"Inconsistent split for {key}")
+                (val if assignments == {"validation"} else train).extend(groups[key])
+            continue
         rng.shuffle(candidates)
         nval = max(1, round(len(candidates) * .2))
         for index, key in enumerate(candidates):

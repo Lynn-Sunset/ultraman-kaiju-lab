@@ -1478,5 +1478,149 @@
     "status": "accepted",
     "note": "Reviewed target bounding-box crop from K216; background character faces excluded. Shares the original source group to prevent split leakage.",
     "image_url": "https://tsuburaya-prod.com/wp-content/uploads/2023/01/Ace-Killer-Cut.jpg"
+  },
+  "K297": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://www.m-78.jp/rb/wp-content/uploads/2018/12/ゴモラ.jpg",
+    "reviewed_at": "2026-11-20"
+  },
+  "K298": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://www.m-78.jp/rb/wp-content/uploads/2018/12/キングジョー.jpg",
+    "reviewed_at": "2026-11-20"
+  },
+  "K299": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://www.m-78.jp/rb/wp-content/uploads/2018/12/ピグモン.jpg",
+    "reviewed_at": "2026-11-20"
+  },
+  "K300": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://www.m-78.jp/rb/wp-content/uploads/2018/12/ダダ-3.jpg",
+    "reviewed_at": "2026-11-20"
+  },
+  "K301": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://www.m-78.jp/rb/wp-content/uploads/2018/10/ネロンガ横.jpg",
+    "reviewed_at": "2026-11-20"
+  },
+  "K302": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://www.m-78.jp/rb/wp-content/uploads/2018/05/レッドキング.jpg",
+    "reviewed_at": "2026-11-20"
+  },
+  "K303": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://www.m-78.jp/rb/wp-content/uploads/2018/05/ブラックキング.jpg",
+    "reviewed_at": "2026-11-20"
+  },
+  "K304": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://www.m-78.jp/orb/wp-content/uploads/2016/08/ブラックキング.jpg",
+    "reviewed_at": "2026-11-20"
+  },
+  "K305": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://www.m-78.jp/orb/wp-content/uploads/2016/08/グビラ.jpg",
+    "reviewed_at": "2026-11-20"
+  },
+  "K306": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://m-78.jp/z/wp-content/uploads/2020/06/neronga.png",
+    "reviewed_at": "2026-11-20"
+  },
+  "K307": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://m-78.jp/z/wp-content/uploads/2020/07/ゴモラ.png",
+    "reviewed_at": "2026-11-20"
+  },
+  "K308": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://m-78.jp/z/wp-content/uploads/2020/08/スカルゴモラ.png",
+    "reviewed_at": "2026-11-20"
+  },
+  "K309": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://m-78.jp/z/wp-content/uploads/2020/08/ペダニウムゼットン.png",
+    "reviewed_at": "2026-11-20"
+  },
+  "K310": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://m-78.jp/z/wp-content/uploads/2020/08/ファイブキング.png",
+    "reviewed_at": "2026-11-20"
+  },
+  "K311": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://m-78.jp/z/wp-content/uploads/2020/08/キングジョー.png",
+    "reviewed_at": "2026-11-20"
+  },
+  "K312": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://m-78.jp/z/wp-content/uploads/2020/10/ベムスター.png",
+    "reviewed_at": "2026-11-20"
+  },
+  "K313": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://www.m-78.jp/taiga/wp-content/uploads/2019/08/ブラックキング.png",
+    "reviewed_at": "2026-11-20"
+  },
+  "K314": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://www.m-78.jp/taiga/wp-content/uploads/2019/11/ゼットン.png",
+    "reviewed_at": "2026-11-20"
+  },
+  "K315": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://www.m-78.jp/taiga/wp-content/uploads/2019/11/ベムラー.png",
+    "reviewed_at": "2026-11-20"
+  },
+  "K316": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://www.m-78.jp/geed/wp-content/uploads/2017/10/23_gubira.jpg",
+    "reviewed_at": "2026-11-20"
+  },
+  "K317": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://www.m-78.jp/geed/wp-content/uploads/2017/08/8_tyrant.jpg",
+    "reviewed_at": "2026-11-20"
+  },
+  "K318": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://www.m-78.jp/geed/wp-content/uploads/2017/08/7_galactron.jpg",
+    "reviewed_at": "2026-11-20"
+  },
+  "K319": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://www.m-78.jp/geed/wp-content/uploads/2017/07/4_eleking.jpg",
+    "reviewed_at": "2026-11-20"
+  },
+  "K320": {
+    "status": "accepted",
+    "note": "Visually checked the labeled character in the official series still.",
+    "image_url": "https://www.m-78.jp/geed/wp-content/uploads/2017/07/2_dada.jpg",
+    "reviewed_at": "2026-11-20"
   }
 }
